@@ -1,0 +1,3538 @@
+{
+  "status": "OK",
+  "copyright":
+    "Copyright (c) 2018 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2018-01-11T17:28:56-05:00",
+  "num_results": 42,
+  "results": [
+    {
+      "section": "Briefing",
+      "subsection": "",
+      "title": "North Korea, California, Ecuador: Your Friday Briefing",
+      "abstract": "Here’s what you need to know to start your day.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/briefing/north-korea-california-ecuador.html",
+      "byline": "By CHARLES McDERMID",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T15:41:37-05:00",
+      "created_date": "2018-01-11T14:13:13-05:00",
+      "published_date": "2018-01-11T14:13:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/briefing/12asia-core/12asia-core-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alastair Grant/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/briefing/12asia-core/12asia-core-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alastair Grant/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/briefing/12asia-core/12asia-core-articleInline.jpg",
+          "format": "Normal",
+          "height": 130,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alastair Grant/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/briefing/12asia-core/12asia-core-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alastair Grant/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/briefing/12asia-core/12asia-core-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 188,
+          "width": 624,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Alastair Grant/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FqMYW6"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title":
+        "House Votes to Renew Surveillance Law, Rejecting New Privacy Protections",
+      "abstract":
+        "House lawmakers voted to preserve the National Security Agency’s warrantless surveillance program.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/us/politics/fisa-surveillance-congress-trump.html",
+      "byline": "By CHARLIE SAVAGE, EILEEN SULLIVAN and NICHOLAS FANDOS",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T13:21:40-05:00",
+      "created_date": "2018-01-11T09:58:09-05:00",
+      "published_date": "2018-01-11T09:58:09-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Surveillance of Citizens by Government",
+        "Foreign Intelligence Surveillance Act (FISA)",
+        "Privacy"
+      ],
+      "org_facet": ["AT&T Inc", "Google Inc", "Fox News Channel", "Twitter"],
+      "per_facet": [
+        "Napolitano, Andrew P",
+        "Snowden, Edward J",
+        "Pompeo, Mike",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12surveillence-alpha/12surveillence-alpha-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A yearslong effort by a bipartisan group of lawmakers to impose significant new privacy limits on the NSA’s warrantless surveillance program fell short on Thursday.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12surveillence-alpha/12surveillence-alpha-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A yearslong effort by a bipartisan group of lawmakers to impose significant new privacy limits on the NSA’s warrantless surveillance program fell short on Thursday.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12surveillence-alpha/12surveillence-alpha-articleInline.jpg",
+          "format": "Normal",
+          "height": 125,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A yearslong effort by a bipartisan group of lawmakers to impose significant new privacy limits on the NSA’s warrantless surveillance program fell short on Thursday.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12surveillence-alpha/12surveillence-alpha-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A yearslong effort by a bipartisan group of lawmakers to impose significant new privacy limits on the NSA’s warrantless surveillance program fell short on Thursday.",
+          "copyright": "Patrick Semansky/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12surveillence-alpha/12surveillence-alpha-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1349,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A yearslong effort by a bipartisan group of lawmakers to impose significant new privacy limits on the NSA’s warrantless surveillance program fell short on Thursday.",
+          "copyright": "Patrick Semansky/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ft2r8i"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title": "Trump Sidesteps Question on Mueller Interview",
+      "abstract":
+        "The response was a marked change from June, when President Trump said he would be “100 percent” willing to give a sworn statement to the special counsel.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/us/politics/trump-russia-election-interference.html",
+      "byline": "By JULIE HIRSCHFELD DAVIS and NICHOLAS FANDOS",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T21:47:43-05:00",
+      "created_date": "2018-01-10T06:00:22-05:00",
+      "published_date": "2018-01-10T06:00:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Special Prosecutors (Independent Counsel)",
+        "Cyberwarfare and Defense",
+        "Espionage and Intelligence Services"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J", "Mueller, Robert S III"],
+      "geo_facet": ["Russia"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11dc-russia-alpha/11dc-russia-alpha-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "President Trump spoke to reporters in the East Room during a news conference with Prime Minister Erna Solberg of Norway.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11dc-russia-alpha/11dc-russia-alpha-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "President Trump spoke to reporters in the East Room during a news conference with Prime Minister Erna Solberg of Norway.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11dc-russia-alpha/11dc-russia-alpha-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "President Trump spoke to reporters in the East Room during a news conference with Prime Minister Erna Solberg of Norway.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11dc-russia-alpha/11dc-russia-alpha-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "President Trump spoke to reporters in the East Room during a news conference with Prime Minister Erna Solberg of Norway.",
+          "copyright": "Tom Brenner/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11dc-russia-alpha/11dc-russia-alpha-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "President Trump spoke to reporters in the East Room during a news conference with Prime Minister Erna Solberg of Norway.",
+          "copyright": "Tom Brenner/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EuvjM1"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title":
+        "Trump Administration Says States May Impose Work Requirements for Medicaid",
+      "abstract":
+        "Federal officials said they would support state efforts to require able-bodied adults to work as a condition of eligibility for Medicaid.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/us/politics/medicaid-work-requirements.html",
+      "byline": "By ROBERT PEAR",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T17:11:18-05:00",
+      "created_date": "2018-01-11T08:01:53-05:00",
+      "published_date": "2018-01-11T08:01:53-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Medicaid", "Health Insurance and Managed Care"],
+      "org_facet": ["Centers for Medicare and Medicaid Services"],
+      "per_facet": ["Verma, Seema"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/12dc-medicaid/12dc-medicaid-thumbStandard-v5.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, left, the administrator of the federal Centers for Medicare and Medicaid Services, at the White House last year.",
+          "copyright": "Doug Mills The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/12dc-medicaid/12dc-medicaid-thumbLarge-v5.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, left, the administrator of the federal Centers for Medicare and Medicaid Services, at the White House last year.",
+          "copyright": "Doug Mills The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/12dc-medicaid/12dc-medicaid-articleInline-v8.jpg",
+          "format": "Normal",
+          "height": 129,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, left, the administrator of the federal Centers for Medicare and Medicaid Services, at the White House last year.",
+          "copyright": "Doug Mills The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/12dc-medicaid/12dc-medicaid-mediumThreeByTwo210-v8.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, left, the administrator of the federal Centers for Medicare and Medicaid Services, at the White House last year.",
+          "copyright": "Doug Mills The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/12dc-medicaid/12dc-medicaid-superJumbo-v10.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, left, the administrator of the federal Centers for Medicare and Medicaid Services, at the White House last year.",
+          "copyright": "Doug Mills The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fui9A8"
+    },
+    {
+      "section": "The Upshot",
+      "subsection": "",
+      "title": "Can Requiring People to Work Make Them Healthier?",
+      "abstract":
+        "The Trump administration wants to make a major change to Medicaid, but there’s not a lot of evidence for one of its key assertions.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/upshot/medicaid-work-requirements-trump.html",
+      "byline": "By MARGOT SANGER-KATZ",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T17:22:13-05:00",
+      "created_date": "2018-01-11T13:15:51-05:00",
+      "published_date": "2018-01-11T13:15:51-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Medicaid",
+        "Health Insurance and Managed Care",
+        "Welfare (US)",
+        "Labor and Jobs",
+        "Poverty"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/upshot/12up-worksub/12up-worksub-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, the administrator of the federal Centers for Medicare and Medicaid Services, has backed the plan to let states impose work requirements on Medicaid recipients.",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/upshot/12up-worksub/12up-worksub-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, the administrator of the federal Centers for Medicare and Medicaid Services, has backed the plan to let states impose work requirements on Medicaid recipients.",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/upshot/12up-worksub/12up-worksub-articleInline.jpg",
+          "format": "Normal",
+          "height": 158,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, the administrator of the federal Centers for Medicare and Medicaid Services, has backed the plan to let states impose work requirements on Medicaid recipients.",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/upshot/12up-worksub/12up-worksub-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, the administrator of the federal Centers for Medicare and Medicaid Services, has backed the plan to let states impose work requirements on Medicaid recipients.",
+          "copyright": "Julio Cortez/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/upshot/12up-worksub/12up-worksub-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1700,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Seema Verma, the administrator of the federal Centers for Medicare and Medicaid Services, has backed the plan to let states impose work requirements on Medicaid recipients.",
+          "copyright": "Julio Cortez/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EA6Zsh"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title":
+        "She Left France to Fight in Syria. Now She Wants to Return. But Can She?",
+      "abstract":
+        "The case of a woman in France who became a prominent propagandist for the Islamic State is unusual, but points to a broader quandary for Europe.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/world/europe/emilie-konig-france-islamic-state.html",
+      "byline": "By ALISSA J. RUBIN",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T14:39:21-05:00",
+      "created_date": "2018-01-11T13:51:31-05:00",
+      "published_date": "2018-01-11T13:51:31-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Politics and Government", "Terrorism"],
+      "org_facet": ["Islamic State in Iraq and Syria (ISIS)"],
+      "per_facet": ["Emilie Konig"],
+      "geo_facet": ["France", "Syria"],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2FoIgrX"
+    },
+    {
+      "section": "Climate",
+      "subsection": "",
+      "title": "That Recent Brutally Cold Weather? It’s Getting Rarer",
+      "abstract":
+        "With climate change warming the Arctic air, researchers say, cold snaps are getting warmer. The recent spell of cold was an outlier.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/climate/cold-wave-northeast.html",
+      "byline": "By HENRY FOUNTAIN",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T13:51:20-05:00",
+      "created_date": "2018-01-11T13:51:20-05:00",
+      "published_date": "2018-01-11T13:51:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Global Warming", "Weather", "Winter (Season)"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Arctic Regions"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/climate/12CLI-COLD1/12CLI-COLD1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A false-color satellite image taken Jan. 6 over the Great Lakes. Clouds appear as white, with snow and ice darker.",
+          "copyright": "Jeff Schmaltz/NASA Earth Observatory"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/climate/12CLI-COLD1/12CLI-COLD1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A false-color satellite image taken Jan. 6 over the Great Lakes. Clouds appear as white, with snow and ice darker.",
+          "copyright": "Jeff Schmaltz/NASA Earth Observatory"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/climate/12CLI-COLD1/12CLI-COLD1-articleInline.jpg",
+          "format": "Normal",
+          "height": 128,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A false-color satellite image taken Jan. 6 over the Great Lakes. Clouds appear as white, with snow and ice darker.",
+          "copyright": "Jeff Schmaltz/NASA Earth Observatory"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/climate/12CLI-COLD1/12CLI-COLD1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A false-color satellite image taken Jan. 6 over the Great Lakes. Clouds appear as white, with snow and ice darker.",
+          "copyright": "Jeff Schmaltz/NASA Earth Observatory"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/climate/12CLI-COLD1/merlin_132138704_110340b3-b986-4a63-9ecb-84c6b8981bbe-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1575,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A false-color satellite image taken Jan. 6 over the Great Lakes. Clouds appear as white, with snow and ice darker.",
+          "copyright": "Jeff Schmaltz/NASA Earth Observatory"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FvvbNO"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "Media",
+      "title":
+        "‘Media Men’ List Creator Outs Herself, Fearing She Would Be Named",
+      "abstract":
+        "Word went out that an article would identify a creator of a list of media industry men accused of sexual harassment. Women urged writers to push back.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/business/media/a-feminist-twitter-campaign-targets-harpers-magazine-and-katie-roiphe.html",
+      "byline": "By JACLYN PEISER",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T17:01:44-05:00",
+      "created_date": "2018-01-10T15:29:33-05:00",
+      "published_date": "2018-01-10T15:29:33-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "#MeToo Movement",
+        "Media",
+        "Women and Girls",
+        "Sexual Harassment"
+      ],
+      "org_facet": ["Harper's Magazine", "New York (Magazine)", "Twitter"],
+      "per_facet": ["Donegan, Moira", "Roiphe, Katie"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/11HARPERS2/11HARPERS2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Twitter campaign urged writers to pull articles they had sold to Harper’s magazine as a way to protest an upcoming article about a list of men in the media accused of misconduct.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/11HARPERS2/11HARPERS2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Twitter campaign urged writers to pull articles they had sold to Harper’s magazine as a way to protest an upcoming article about a list of men in the media accused of misconduct.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/11HARPERS2/merlin_85999009_04f2e9cd-6962-4f66-80b3-542a058763ab-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Twitter campaign urged writers to pull articles they had sold to Harper’s magazine as a way to protest an upcoming article about a list of men in the media accused of misconduct.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/11HARPERS2/merlin_85999009_04f2e9cd-6962-4f66-80b3-542a058763ab-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Twitter campaign urged writers to pull articles they had sold to Harper’s magazine as a way to protest an upcoming article about a list of men in the media accused of misconduct.",
+          "copyright": "Richard Perry/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/11HARPERS2/merlin_85999009_04f2e9cd-6962-4f66-80b3-542a058763ab-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Twitter campaign urged writers to pull articles they had sold to Harper’s magazine as a way to protest an upcoming article about a list of men in the media accused of misconduct.",
+          "copyright": "Richard Perry/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FqMTBR"
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Women’s Accusations Follow James Franco After Golden Globes",
+      "abstract":
+        "Mr. Franco’s victory on Sunday became a flash point for women who came forward to say Mr. Franco sexually exploited them or behaved inappropriately.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/movies/james-franco-allegations.html",
+      "byline": "By DAVE ITZKOFF",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T15:19:50-05:00",
+      "created_date": "2018-01-11T14:36:46-05:00",
+      "published_date": "2018-01-11T14:36:46-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "The Disaster Artist (Movie)",
+        "Sexual Harassment",
+        "Golden Globes (Awards)",
+        "Academy Awards (Oscars)"
+      ],
+      "org_facet": [],
+      "per_facet": ["Franco, James"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12franco1/12franco1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "James Franco at the National Board of Review gala in New York on Tuesday. Several women have said he sexually exploited them or behaved inappropriately.",
+          "copyright":
+            "Dimitrios Kambouris/Getty Images for National Board of Review"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12franco1/12franco1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "James Franco at the National Board of Review gala in New York on Tuesday. Several women have said he sexually exploited them or behaved inappropriately.",
+          "copyright":
+            "Dimitrios Kambouris/Getty Images for National Board of Review"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12franco1/merlin_132082058_bc55038a-66c5-41ce-92fe-b6746c75ce1a-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "James Franco at the National Board of Review gala in New York on Tuesday. Several women have said he sexually exploited them or behaved inappropriately.",
+          "copyright":
+            "Dimitrios Kambouris/Getty Images for National Board of Review"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12franco1/merlin_132082058_bc55038a-66c5-41ce-92fe-b6746c75ce1a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "James Franco at the National Board of Review gala in New York on Tuesday. Several women have said he sexually exploited them or behaved inappropriately.",
+          "copyright":
+            "Dimitrios Kambouris/Getty Images for National Board of Review"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12franco1/merlin_132082058_bc55038a-66c5-41ce-92fe-b6746c75ce1a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "James Franco at the National Board of Review gala in New York on Tuesday. Several women have said he sexually exploited them or behaved inappropriately.",
+          "copyright":
+            "Dimitrios Kambouris/Getty Images for National Board of Review"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Exr8PE"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title":
+        "A Rush to Find Survivors Amid the Mud of Southern California Enclave",
+      "abstract":
+        "More than a dozen people are missing around Montecito in the aftermath of mudslides that killed 17 people and destroyed 100 homes.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/us/montecito-mudslides-california.html",
+      "byline": "By THOMAS FULLER",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T21:13:54-05:00",
+      "created_date": "2018-01-10T09:07:02-05:00",
+      "published_date": "2018-01-10T09:07:02-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Landslides and Mudslides",
+        "Rain",
+        "Deaths (Fatalities)",
+        "Rescues"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Montecito (Calif)", "California"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11mudslides1/11xp-mudslides-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Emergency workers carrying a woman rescued in Montecito, Calif., on Tuesday.",
+          "copyright": "Kenneth Song/Santa Barbara News-Press, via Reuters"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11mudslides1/11xp-mudslides-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Emergency workers carrying a woman rescued in Montecito, Calif., on Tuesday.",
+          "copyright": "Kenneth Song/Santa Barbara News-Press, via Reuters"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11mudslides1/11xp-mudslides-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Emergency workers carrying a woman rescued in Montecito, Calif., on Tuesday.",
+          "copyright": "Kenneth Song/Santa Barbara News-Press, via Reuters"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11mudslides1/11xp-mudslides-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Emergency workers carrying a woman rescued in Montecito, Calif., on Tuesday.",
+          "copyright": "Kenneth Song/Santa Barbara News-Press, via Reuters"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/us/11mudslides1/11xp-mudslides-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1498,
+          "width": 2000,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Emergency workers carrying a woman rescued in Montecito, Calif., on Tuesday.",
+          "copyright": "Kenneth Song/Santa Barbara News-Press, via Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FlWM3L"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "title": "The Women the Abortion War Leaves Out",
+      "abstract":
+        "I am a pro-choice feminist, but I understand what crisis pregnancy centers are offering.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/opinion/sunday/abortion-crisis-pregnancy-centers.html",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T15:09:19-05:00",
+      "created_date": "2018-01-11T15:09:19-05:00",
+      "published_date": "2018-01-11T15:09:19-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Pregnancy and Childbirth",
+        "Women and Girls",
+        "Abortion",
+        "Parenting"
+      ],
+      "org_facet": [
+        "Americans United for Life",
+        "Planned Parenthood Federation of America"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/opinion/sunday/14oberman/14oberman-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angelica Alzona"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/opinion/sunday/14oberman/14oberman-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angelica Alzona"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/opinion/sunday/14oberman/14oberman-articleInline.jpg",
+          "format": "Normal",
+          "height": 131,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angelica Alzona"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/opinion/sunday/14oberman/14oberman-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angelica Alzona"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/opinion/sunday/14oberman/14oberman-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1416,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Angelica Alzona"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fsn7xl"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Robots Can’t Vote, but They Helped Elect Trump",
+      "abstract":
+        "The areas of the country with the largest robot work forces gave the president an unanticipated advantage in the Electoral College.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/opinion/trump-robots-electoral-college.html",
+      "byline": "By THOMAS B. EDSALL",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T05:45:21-05:00",
+      "created_date": "2018-01-11T05:45:22-05:00",
+      "published_date": "2018-01-11T05:45:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2016",
+        "Electoral College",
+        "Robots and Robotics",
+        "Voting and Voters"
+      ],
+      "org_facet": ["Republican Party", "Democratic Party"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11edsallWeb/11edsallWeb-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Robotic welders working at the Nissan manufacturing plant in Canton, Miss.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11edsallWeb/11edsallWeb-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Robotic welders working at the Nissan manufacturing plant in Canton, Miss.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11edsallWeb/11edsallWeb-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Robotic welders working at the Nissan manufacturing plant in Canton, Miss.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11edsallWeb/11edsallWeb-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Robotic welders working at the Nissan manufacturing plant in Canton, Miss.",
+          "copyright": "Daniel Acker/Bloomberg"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11edsallWeb/11edsallWeb-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Robotic welders working at the Nissan manufacturing plant in Canton, Miss.",
+          "copyright": "Daniel Acker/Bloomberg"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ExDsPT"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "The Battle Line for Western Values Runs Through Poland",
+      "abstract":
+        "If the European Union confronts the populist, nationalist government in Warsaw, it can prove that it stands for something.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/opinion/europe-western-values-poland.html",
+      "byline": "By CHARLES A. KUPCHAN",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T23:40:38-05:00",
+      "created_date": "2018-01-10T19:16:20-05:00",
+      "published_date": "2018-01-10T19:16:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Politics and Government"],
+      "org_facet": [
+        "European Commission",
+        "European Union",
+        "Law and Justice (Poland)"
+      ],
+      "per_facet": ["Morawiecki, Mateusz"],
+      "geo_facet": ["Poland"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11kupchan/11kupchan-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mikel Jaso"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11kupchan/11kupchan-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mikel Jaso"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11kupchan/11kupchan-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mikel Jaso"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11kupchan/11kupchan-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mikel Jaso"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11kupchan/11kupchan-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1534,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mikel Jaso"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FrqYuv"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Why Malaysia’s Opposition Picked an Old Foe as Its New Leader",
+      "abstract":
+        "Could Mahathir Mohamad dismantle the system he helped build during his previous decades in power?",
+      "url":
+        "https://www.nytimes.com/2018/01/11/opinion/mahathir-mohamad-malaysia.html",
+      "byline": "By CHIN-HUAT WONG",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T14:54:23-05:00",
+      "created_date": "2018-01-11T14:54:23-05:00",
+      "published_date": "2018-01-11T14:54:23-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Elections",
+        "Muslims and Islam"
+      ],
+      "org_facet": ["1Malaysia Development Berhad (1MDB)"],
+      "per_facet": ["Mohamad, Mahathir"],
+      "geo_facet": ["Malaysia"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/12chinhuatwong-inyt/12chinhuatwong-inyt-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Mahathir Mohamad, 92, was the country’s prime minister from 1981 to 2003.",
+          "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/12chinhuatwong-inyt/12chinhuatwong-inyt-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Mahathir Mohamad, 92, was the country’s prime minister from 1981 to 2003.",
+          "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/12chinhuatwong-inyt/12chinhuatwong-inyt-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Mahathir Mohamad, 92, was the country’s prime minister from 1981 to 2003.",
+          "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/12chinhuatwong-inyt/12chinhuatwong-inyt-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Mahathir Mohamad, 92, was the country’s prime minister from 1981 to 2003.",
+          "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/12chinhuatwong-inyt/12chinhuatwong-inyt-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1372,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Mahathir Mohamad, 92, was the country’s prime minister from 1981 to 2003.",
+          "copyright": "Mohd Rasfan/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FskDPx"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "",
+      "title": "Is Mr. Trump Nuts?",
+      "abstract":
+        "It’s the wrong question. Efforts to diagnose the president from afar are damaging to real efforts to address his unfitness.",
+      "url": "https://www.nytimes.com/2018/01/10/opinion/is-mr-trump-nuts.html",
+      "byline": "By THE EDITORIAL BOARD",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T20:54:46-05:00",
+      "created_date": "2018-01-10T20:09:51-05:00",
+      "published_date": "2018-01-10T20:09:51-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Twenty-Fifth Amendment (US Constitution)",
+        "Ethics and Official Misconduct",
+        "Psychiatry and Psychiatrists",
+        "Mental Health and Disorders",
+        "Impeachment"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11thu1a/11thu1a-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jordan Awan"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11thu1a/11thu1a-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jordan Awan"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11thu1a/11thu1a-articleInline.jpg",
+          "format": "Normal",
+          "height": 157,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jordan Awan"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11thu1a/11thu1a-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jordan Awan"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/opinion/11thu1a/11thu1a-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1697,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jordan Awan"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EvkKbC"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "",
+      "title":
+        "Walmart, Citing Tax Cuts, Will Raise Starting Wages and Expand Benefits",
+      "abstract":
+        "The nation’s largest employer said on Thursday that it would increase its minimum hourly wage to $11 from $9, expand parental leave benefits and give some workers a $1,000 bonus.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/business/walmart-wages-tax-cuts.html",
+      "byline": "By MICHAEL CORKERY",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T14:15:11-05:00",
+      "created_date": "2018-01-11T09:12:52-05:00",
+      "published_date": "2018-01-11T09:12:52-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wages and Salaries",
+        "Labor and Jobs",
+        "Family Leaves",
+        "Tax Cuts and Jobs Act (2017)"
+      ],
+      "org_facet": ["Walmart Stores Inc"],
+      "per_facet": ["McMillon, C Douglas"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/business/12walmart2/12walmart2-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Walmart employees at a store in Miami. The retailing giant said it would raise its starting wage to $11 an hour from $9.",
+          "copyright": "Joe Raedle/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/business/12walmart2/12walmart2-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Walmart employees at a store in Miami. The retailing giant said it would raise its starting wage to $11 an hour from $9.",
+          "copyright": "Joe Raedle/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/business/12walmart2/12walmart2-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Walmart employees at a store in Miami. The retailing giant said it would raise its starting wage to $11 an hour from $9.",
+          "copyright": "Joe Raedle/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/business/12walmart2/12walmart2-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Walmart employees at a store in Miami. The retailing giant said it would raise its starting wage to $11 an hour from $9.",
+          "copyright": "Joe Raedle/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/business/12walmart2/12walmart2-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Walmart employees at a store in Miami. The retailing giant said it would raise its starting wage to $11 an hour from $9.",
+          "copyright": "Joe Raedle/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EwO5Cr"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title":
+        "Pressed on False Claims About Muslims, U.S. Ambassador Goes Silent",
+      "abstract":
+        "In an exchange with Dutch journalists, Peter Hoekstra declined to clarify his prior remarks. “This is the Netherlands, you have to answer questions,” one reporter said.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/world/europe/dutch-muslims-ambassador-trump.html",
+      "byline": "By CHRISTINE HAUSER",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T14:46:39-05:00",
+      "created_date": "2018-01-11T14:46:39-05:00",
+      "published_date": "2018-01-11T14:46:39-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Diplomatic Service, Embassies and Consulates",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": ["Hoekstra, Peter"],
+      "geo_facet": ["Netherlands"],
+      "multimedia": [],
+      "short_url": "https://nyti.ms/2FqXf4P"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title":
+        "Texas Illegally Excluded Thousands From Special Education, Federal Officials Say",
+      "abstract":
+        "A state “target” meant to limit the number of students receiving special education services violated federal law, regulators said in a letter ordering the state to make amends.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/us/texas-special-education.html",
+      "byline": "By BRIAN M. ROSENTHAL",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T13:32:21-05:00",
+      "created_date": "2018-01-11T11:09:39-05:00",
+      "published_date": "2018-01-11T11:09:39-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Special Education",
+        "Education (K-12)",
+        "Intellectual Disabilities"
+      ],
+      "org_facet": [
+        "Texas Education Agency",
+        "Education Department (US)",
+        "Disability Rights Texas"
+      ],
+      "per_facet": [],
+      "geo_facet": ["Texas"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12specialed1/12specialed1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Federal regulators said Thursday that Texas’s decision to set a “target” for the maximum percentage of students who should receive special education services violated federal laws.",
+          "copyright": "Ilana Panich-Linsman for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12specialed1/12specialed1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Federal regulators said Thursday that Texas’s decision to set a “target” for the maximum percentage of students who should receive special education services violated federal laws.",
+          "copyright": "Ilana Panich-Linsman for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12specialed1/12specialed1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Federal regulators said Thursday that Texas’s decision to set a “target” for the maximum percentage of students who should receive special education services violated federal laws.",
+          "copyright": "Ilana Panich-Linsman for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12specialed1/12specialed1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Federal regulators said Thursday that Texas’s decision to set a “target” for the maximum percentage of students who should receive special education services violated federal laws.",
+          "copyright": "Ilana Panich-Linsman for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12specialed1/12specialed1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Federal regulators said Thursday that Texas’s decision to set a “target” for the maximum percentage of students who should receive special education services violated federal laws.",
+          "copyright": "Ilana Panich-Linsman for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FtgdYy"
+    },
+    {
+      "section": "World",
+      "subsection": "Middle East",
+      "title":
+        "Iran Eases Death Penalty for Drug Crimes, Saving Potentially Thousands of Lives",
+      "abstract":
+        "A rare overhaul by Iran’s hard-line dominated judiciary came amid domestic and international pressure to reduce its executions, which are second only to China’s.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/world/middleeast/iran-drugs-death-penalty.html",
+      "byline": "By THOMAS ERDBRINK",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T11:22:18-05:00",
+      "created_date": "2018-01-10T11:22:18-05:00",
+      "published_date": "2018-01-10T11:22:18-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Drug Abuse and Traffic",
+        "Capital Punishment",
+        "Politics and Government",
+        "Shariah (Islamic Law)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Iran"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/world/11Iran/merlin_106525279_393a1a36-8909-477a-b689-d35769117cc9-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An execution noose in Noor, Iran.",
+          "copyright":
+            "Arash Khamooshi/Iranian Students News Agency, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/world/11Iran/merlin_106525279_393a1a36-8909-477a-b689-d35769117cc9-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An execution noose in Noor, Iran.",
+          "copyright":
+            "Arash Khamooshi/Iranian Students News Agency, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/world/11Iran/merlin_106525279_393a1a36-8909-477a-b689-d35769117cc9-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An execution noose in Noor, Iran.",
+          "copyright":
+            "Arash Khamooshi/Iranian Students News Agency, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/world/11Iran/merlin_106525279_393a1a36-8909-477a-b689-d35769117cc9-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An execution noose in Noor, Iran.",
+          "copyright":
+            "Arash Khamooshi/Iranian Students News Agency, via Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/world/11Iran/merlin_106525279_393a1a36-8909-477a-b689-d35769117cc9-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An execution noose in Noor, Iran.",
+          "copyright":
+            "Arash Khamooshi/Iranian Students News Agency, via Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FmszBD"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "Politics",
+      "title":
+        "Melania Trump Hires Policy Director Amid Scrutiny From New Book",
+      "abstract":
+        "For months, Mrs. Trump’s East Wing had undergone a search for a policy director who could advance an agenda that has been broadly defined as helping children.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/us/politics/melania-trump-policy-director-fire-fury.html",
+      "byline": "By KATIE ROGERS",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T14:27:10-05:00",
+      "created_date": "2018-01-11T14:27:11-05:00",
+      "published_date": "2018-01-11T14:27:11-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Appointments and Executive Changes", "First Ladies (US)"],
+      "org_facet": [],
+      "per_facet": ["Trump, Melania"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-flotus/12dc-flotus-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Melania Trump has so far given few clues to where she may focus her policy efforts, but she has publicly expressed interest in helping children affected by the opioid crisis, advocating anti-bullying measures and aiding disaster relief efforts.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-flotus/12dc-flotus-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Melania Trump has so far given few clues to where she may focus her policy efforts, but she has publicly expressed interest in helping children affected by the opioid crisis, advocating anti-bullying measures and aiding disaster relief efforts.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-flotus/12dc-flotus-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Melania Trump has so far given few clues to where she may focus her policy efforts, but she has publicly expressed interest in helping children affected by the opioid crisis, advocating anti-bullying measures and aiding disaster relief efforts.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-flotus/12dc-flotus-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Melania Trump has so far given few clues to where she may focus her policy efforts, but she has publicly expressed interest in helping children affected by the opioid crisis, advocating anti-bullying measures and aiding disaster relief efforts.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-flotus/12dc-flotus-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Melania Trump has so far given few clues to where she may focus her policy efforts, but she has publicly expressed interest in helping children affected by the opioid crisis, advocating anti-bullying measures and aiding disaster relief efforts.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fu6cdI"
+    },
+    {
+      "section": "World",
+      "subsection": "Europe",
+      "title":
+        "Ecuador Gives Assange Citizenship, Worsening Standoff With Britain",
+      "abstract":
+        "Ecuador wants the WikiLeaks founder to leave its London embassy, but Britain insists that he face justice, which could include extradition to the United States.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/world/europe/julian-assange-ecuador-embassy.html",
+      "byline": "By MAGGY AYALA and STEVEN ERLANGER",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T15:19:01-05:00",
+      "created_date": "2018-01-11T06:44:24-05:00",
+      "published_date": "2018-01-11T06:44:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Extradition",
+        "Politics and Government",
+        "Classified Information and State Secrets"
+      ],
+      "org_facet": ["WikiLeaks"],
+      "per_facet": ["Assange, Julian P"],
+      "geo_facet": ["London (England)", "Ecuador"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/europe/12assange/12assange-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Julian Assange speaking at the Ecuadorean Embassy in London last year.",
+          "copyright": "Daniel Leal-Olivas/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/europe/12assange/12assange-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Julian Assange speaking at the Ecuadorean Embassy in London last year.",
+          "copyright": "Daniel Leal-Olivas/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/europe/12assange/12assange-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Julian Assange speaking at the Ecuadorean Embassy in London last year.",
+          "copyright": "Daniel Leal-Olivas/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/europe/12assange/12assange-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Julian Assange speaking at the Ecuadorean Embassy in London last year.",
+          "copyright": "Daniel Leal-Olivas/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/world/europe/12assange/12assange-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Julian Assange speaking at the Ecuadorean Embassy in London last year.",
+          "copyright": "Daniel Leal-Olivas/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ewvd6w"
+    },
+    {
+      "section": "U.S.",
+      "subsection": "",
+      "title":
+        "Gov. Eric Greitens of Missouri Admits Affair but Denies Threats",
+      "abstract":
+        "Mr. Greitens called the extramarital relationship before he was elected governor “a deeply personal mistake,” but denied threatening the woman with retribution if it was exposed.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/us/eric-greitens-missouri-governor-affair.html",
+      "byline": "By JONATHAN MARTIN",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T17:06:16-05:00",
+      "created_date": "2018-01-11T14:16:57-05:00",
+      "published_date": "2018-01-11T14:16:57-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Adultery",
+        "Extortion and Blackmail"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Greitens, Eric"],
+      "geo_facet": ["Missouri"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12missouri/12missouri-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Gov. Eric Greitens of Missouri delivering the State of the State address on Wednesday. Immediately afterward, he released a statement acknowledging that he had an extramarital affair before he was elected.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12missouri/12missouri-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Gov. Eric Greitens of Missouri delivering the State of the State address on Wednesday. Immediately afterward, he released a statement acknowledging that he had an extramarital affair before he was elected.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12missouri/12missouri-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Gov. Eric Greitens of Missouri delivering the State of the State address on Wednesday. Immediately afterward, he released a statement acknowledging that he had an extramarital affair before he was elected.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12missouri/12missouri-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Gov. Eric Greitens of Missouri delivering the State of the State address on Wednesday. Immediately afterward, he released a statement acknowledging that he had an extramarital affair before he was elected.",
+          "copyright": "Jeff Roberson/Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/us/12missouri/12missouri-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Gov. Eric Greitens of Missouri delivering the State of the State address on Wednesday. Immediately afterward, he released a statement acknowledging that he had an extramarital affair before he was elected.",
+          "copyright": "Jeff Roberson/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ew9Xhl"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Health Insurer Centene Is Sued Over Lack of Medical Coverage",
+      "abstract":
+        "A star of the Affordable Care Act is accused of offering plans that make it hard to find a doctor who accepts its insurance.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/health/centene-health-insurance-lawsuit.html",
+      "byline": "By REED ABELSON",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T11:17:52-05:00",
+      "created_date": "2018-01-11T11:17:52-05:00",
+      "published_date": "2018-01-11T11:17:52-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Health Insurance and Managed Care",
+        "Doctors",
+        "Patient Protection and Affordable Care Act (2010)"
+      ],
+      "org_facet": ["UnitedHealth Group Inc", "Centene Corporation"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/science/12CENTENE/12CENTENE-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Centene building in St. Louis, Mo. The company has become a major insurer under the federal health care law.",
+          "copyright": "Kristoffer Tripplaar/Alamy"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/science/12CENTENE/12CENTENE-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Centene building in St. Louis, Mo. The company has become a major insurer under the federal health care law.",
+          "copyright": "Kristoffer Tripplaar/Alamy"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/science/12CENTENE/12CENTENE-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Centene building in St. Louis, Mo. The company has become a major insurer under the federal health care law.",
+          "copyright": "Kristoffer Tripplaar/Alamy"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/science/12CENTENE/12CENTENE-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Centene building in St. Louis, Mo. The company has become a major insurer under the federal health care law.",
+          "copyright": "Kristoffer Tripplaar/Alamy"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/science/12CENTENE/12CENTENE-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A Centene building in St. Louis, Mo. The company has become a major insurer under the federal health care law.",
+          "copyright": "Kristoffer Tripplaar/Alamy"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ft2qB0"
+    },
+    {
+      "section": "Business Day",
+      "subsection": "",
+      "title":
+        "CES 2018: What the Gadget Fest Looks Like in ‘the Year of A.I.’",
+      "abstract":
+        "Thousands of electronics enthusiasts flooded the trade show to see the latest devices, but the darling of the event was the artificial intelligence software that helps these products run.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/business/ces-gadgets-technology.html",
+      "byline": "By WHITNEY RICHARDSON and BRIAN X. CHEN",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T09:44:59-05:00",
+      "created_date": "2018-01-11T09:44:59-05:00",
+      "published_date": "2018-01-11T09:44:59-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "vis-multimedia",
+        "Robots and Robotics",
+        "Artificial Intelligence",
+        "Electronics",
+        "International Consumer Electronics Show"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/12CESphotos-alpha/12CESphotos-alpha-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Roger Kisby for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/12CESphotos-alpha/12CESphotos-alpha-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Roger Kisby for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/12CESphotos-alpha/12CESphotos-alpha-articleInline.jpg",
+          "format": "Normal",
+          "height": 143,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Roger Kisby for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/12CESphotos-alpha/12CESphotos-alpha-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Roger Kisby for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/business/12CESphotos-alpha/12CESphotos-alpha-superJumbo-v2.gif",
+          "format": "superJumbo",
+          "height": 380,
+          "width": 675,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Roger Kisby for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Ex13jy"
+    },
+    {
+      "section": "Sports",
+      "subsection": "Baseball",
+      "title":
+        "The Analytics Guy Failed to Compute One Thing: How to Be Accepted in Mexico",
+      "abstract":
+        "A Mexican baseball team brought in an analytics expert. But in a clash of tradition and modernity, a manager ended up fired and the data is now hardly used.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/sports/baseball/baseball-analytics-mexico.html",
+      "byline": "By DAVID WALDSTEIN",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T12:06:56-05:00",
+      "created_date": "2018-01-11T09:36:14-05:00",
+      "published_date": "2018-01-11T09:36:14-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Baseball", "Coaches and Managers", "Analytics"],
+      "org_facet": ["Hagerstown Suns"],
+      "per_facet": ["Gonzalez, Adrian (1982- )"],
+      "geo_facet": ["Mexico"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/sports/11mexicoanalytics-web1/11mexicoanalytics-web1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Anton Dahbura, and his wife, Marlaina R. Miller, who provide analytics to a baseball team in Mexico, watched a game streamed from there at their home in Hagerstown, Md. Much of their advice of late has been ignored.",
+          "copyright": "Matt Roth for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/sports/11mexicoanalytics-web1/11mexicoanalytics-web1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Anton Dahbura, and his wife, Marlaina R. Miller, who provide analytics to a baseball team in Mexico, watched a game streamed from there at their home in Hagerstown, Md. Much of their advice of late has been ignored.",
+          "copyright": "Matt Roth for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/sports/11mexicoanalytics-web1/merlin_131590631_b922d788-34fc-419f-8c1a-37384310814c-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Anton Dahbura, and his wife, Marlaina R. Miller, who provide analytics to a baseball team in Mexico, watched a game streamed from there at their home in Hagerstown, Md. Much of their advice of late has been ignored.",
+          "copyright": "Matt Roth for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/sports/11mexicoanalytics-web1/merlin_131590631_b922d788-34fc-419f-8c1a-37384310814c-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Anton Dahbura, and his wife, Marlaina R. Miller, who provide analytics to a baseball team in Mexico, watched a game streamed from there at their home in Hagerstown, Md. Much of their advice of late has been ignored.",
+          "copyright": "Matt Roth for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/sports/11mexicoanalytics-web1/merlin_131590631_b922d788-34fc-419f-8c1a-37384310814c-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Anton Dahbura, and his wife, Marlaina R. Miller, who provide analytics to a baseball team in Mexico, watched a game streamed from there at their home in Hagerstown, Md. Much of their advice of late has been ignored.",
+          "copyright": "Matt Roth for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ExZFgP"
+    },
+    {
+      "section": "Style",
+      "subsection": "",
+      "title": "Outing Death",
+      "abstract": "Once a social taboo, the topic is trending.",
+      "url": "https://www.nytimes.com/2018/01/10/style/death-app-we-croak.html",
+      "byline": "By RUTH LA FERLA",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T16:00:20-05:00",
+      "created_date": "2018-01-10T16:00:20-05:00",
+      "published_date": "2018-01-10T16:00:20-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Mobile Applications", "Death and Dying"],
+      "org_facet": ["WeCroak (KKIT Creations LLC)"],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/fashion/10We-CROAK1/10We-CROAK1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The WeCroak logo.",
+          "copyright": ""
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/fashion/10We-CROAK1/10We-CROAK1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The WeCroak logo.",
+          "copyright": ""
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/fashion/10We-CROAK1/10We-CROAK1-articleInline.jpg",
+          "format": "Normal",
+          "height": 252,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The WeCroak logo.",
+          "copyright": ""
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/fashion/10We-CROAK1/10We-CROAK1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The WeCroak logo.",
+          "copyright": ""
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/fashion/10We-CROAK1/10We-CROAK1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 750,
+          "width": 565,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The WeCroak logo.",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/2EwIJXJ"
+    },
+    {
+      "section": "Smarter Living",
+      "subsection": "",
+      "title": "A Beginner’s Guide to Backing Up Photos",
+      "abstract":
+        "Whether they’re digital photos on your smartphone or old negatives in your attic, here’s how to get started tackling your photo clutter.",
+      "url":
+        "https://www.nytimes.com/2018/01/11/smarter-living/backing-up-your-photos.html",
+      "byline": "By TERRY SULLIVAN",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T17:13:06-05:00",
+      "created_date": "2018-01-11T02:45:01-05:00",
+      "published_date": "2018-01-11T02:45:01-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Data Storage",
+        "Archives and Records",
+        "Photography",
+        "Computers and the Internet",
+        "Cloud Computing"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/11/01/opinion/00sl-photobackup1/00sl-photobackup1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robyn Beck/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/11/01/opinion/00sl-photobackup1/00sl-photobackup1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robyn Beck/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/11/01/opinion/00sl-photobackup1/00sl-photobackup1-articleInline.jpg",
+          "format": "Normal",
+          "height": 120,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robyn Beck/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/11/01/opinion/00sl-photobackup1/00sl-photobackup1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robyn Beck/Agence France-Presse — Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/11/01/opinion/00sl-photobackup1/00sl-photobackup1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1289,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Robyn Beck/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FpCZ3v"
+    },
+    {
+      "section": "Technology",
+      "subsection": "Personal Tech",
+      "title": "The Big Tech Trends to Follow at CES 2018",
+      "abstract":
+        "The stars of next week’s giant electronics show won’t be flashy gadgets. Instead, the focus will be on artificial intelligence and its impact on homes, cities and cars.",
+      "url":
+        "https://www.nytimes.com/2018/01/03/technology/personaltech/ces-2018.html",
+      "byline": "By BRIAN X. CHEN",
+      "item_type": "Article",
+      "updated_date": "2018-01-04T12:14:01-05:00",
+      "created_date": "2018-01-03T17:30:46-05:00",
+      "published_date": "2018-01-03T17:30:46-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Driverless and Semiautonomous Vehicles",
+        "Computers and the Internet",
+        "Artificial Intelligence",
+        "Home Automation and Smart Homes",
+        "International Consumer Electronics Show",
+        "Sensors",
+        "Smartphones",
+        "Wireless Communications",
+        "Electronics"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/04/business/04TECHFIX-1/04TECHFIX-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "CES, the giant tech trade show, provides a window into emerging tech trends.",
+          "copyright": "Alex Wong/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/04/business/04TECHFIX-1/04TECHFIX-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "CES, the giant tech trade show, provides a window into emerging tech trends.",
+          "copyright": "Alex Wong/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/04/business/04TECHFIX-1/04TECHFIX-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "CES, the giant tech trade show, provides a window into emerging tech trends.",
+          "copyright": "Alex Wong/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/04/business/04TECHFIX-1/04TECHFIX-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "CES, the giant tech trade show, provides a window into emerging tech trends.",
+          "copyright": "Alex Wong/Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/04/business/04TECHFIX-1/04TECHFIX-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "CES, the giant tech trade show, provides a window into emerging tech trends.",
+          "copyright": "Alex Wong/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2E0Yoi4"
+    },
+    {
+      "section": "Your Money",
+      "subsection": "",
+      "title": "Yes, You Really Can Pay for Private School With 529 Plans Now",
+      "abstract":
+        "The new tax bill delivers a perk to wealthy families who can put a pile of money upfront into the accounts, then withdraw it tax-free for private school.",
+      "url":
+        "https://www.nytimes.com/2017/12/21/your-money/529-plans-taxes-private-school.html",
+      "byline": "By RON LIEBER",
+      "item_type": "Article",
+      "updated_date": "2017-12-22T17:19:57-05:00",
+      "created_date": "2017-12-21T10:14:52-05:00",
+      "published_date": "2017-12-21T10:14:52-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Tax Credits, Deductions and Exemptions",
+        "Tuition",
+        "Federal Taxes (US)",
+        "Financial Aid (Education)",
+        "529 Plans"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/12/21/business/23MONEY-1/23MONEY-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Horace Mann School, a private college preparatory school in the Bronx, N.Y. The Republican tax bill allows $10,000 in annual tax-free 529 account withdrawals for private school from elementary school onward.",
+          "copyright": "Marcus Yam for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/12/21/business/23MONEY-1/23MONEY-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Horace Mann School, a private college preparatory school in the Bronx, N.Y. The Republican tax bill allows $10,000 in annual tax-free 529 account withdrawals for private school from elementary school onward.",
+          "copyright": "Marcus Yam for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/12/21/business/23MONEY-1/23MONEY-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 124,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Horace Mann School, a private college preparatory school in the Bronx, N.Y. The Republican tax bill allows $10,000 in annual tax-free 529 account withdrawals for private school from elementary school onward.",
+          "copyright": "Marcus Yam for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/12/21/business/23MONEY-1/23MONEY-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Horace Mann School, a private college preparatory school in the Bronx, N.Y. The Republican tax bill allows $10,000 in annual tax-free 529 account withdrawals for private school from elementary school onward.",
+          "copyright": "Marcus Yam for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2017/12/21/business/23MONEY-1/23MONEY-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1335,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Horace Mann School, a private college preparatory school in the Bronx, N.Y. The Republican tax bill allows $10,000 in annual tax-free 529 account withdrawals for private school from elementary school onward.",
+          "copyright": "Marcus Yam for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2DpEuOe"
+    },
+    {
+      "section": "Books",
+      "subsection": "Book Review",
+      "title":
+        "At a Public School in Denver, Refugee Children Find Hope and Frustration",
+      "abstract":
+        "In “The Newcomers,” Helen Thorpe documents a class of immigrant teenagers while the Trump campaign stirs up nativist resentment.",
+      "url":
+        "https://www.nytimes.com/2018/01/09/books/review/newcomers-helen-thorpe.html",
+      "byline": "By NINA BURLEIGH",
+      "item_type": "Article",
+      "updated_date": "2018-01-09T17:29:46-05:00",
+      "created_date": "2018-01-09T17:29:46-05:00",
+      "published_date": "2018-01-09T17:29:46-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Books and Literature",
+        "The Newcomers: Finding Refuge, Friendship, and Hope in an American Classroom (Book)",
+        "Education (K-12)",
+        "Refugees and Displaced Persons"
+      ],
+      "org_facet": [],
+      "per_facet": ["Thorpe, Helen"],
+      "geo_facet": ["Denver (Colo)"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/08/books/review/BURLEIGH/BURLEIGH-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Congresswoman Diana DeGette speaking to students about immigration last January at South High School, which she attended.",
+          "copyright": "RJ Sangosti/The Denver Post, via Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/08/books/review/BURLEIGH/BURLEIGH-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Congresswoman Diana DeGette speaking to students about immigration last January at South High School, which she attended.",
+          "copyright": "RJ Sangosti/The Denver Post, via Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/08/books/review/BURLEIGH/BURLEIGH-articleInline.jpg",
+          "format": "Normal",
+          "height": 132,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Congresswoman Diana DeGette speaking to students about immigration last January at South High School, which she attended.",
+          "copyright": "RJ Sangosti/The Denver Post, via Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/08/books/review/BURLEIGH/BURLEIGH-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Congresswoman Diana DeGette speaking to students about immigration last January at South High School, which she attended.",
+          "copyright": "RJ Sangosti/The Denver Post, via Getty Images"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/08/books/review/BURLEIGH/BURLEIGH-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1426,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Congresswoman Diana DeGette speaking to students about immigration last January at South High School, which she attended.",
+          "copyright": "RJ Sangosti/The Denver Post, via Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FjnfPx"
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Jake Gyllenhaal on Ambivalent Heroes and, Um, Perms",
+      "abstract":
+        "The 37-year old actor was passed over by the Golden Globes but may well land an Oscar nomination for his performance in “Stronger”",
+      "url":
+        "https://www.nytimes.com/2018/01/11/movies/jake-gyllenhaal-on-ambivalent-heroes-and-um-perms.html",
+      "byline": "By CARA BUCKLEY",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T05:00:22-05:00",
+      "created_date": "2018-01-11T05:00:22-05:00",
+      "published_date": "2018-01-11T05:00:22-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Academy Awards (Oscars)", "Stronger (Movie)"],
+      "org_facet": [],
+      "per_facet": ["Gyllenhaal, Jake", "Bauman, Jeff"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/arts/12JAKEGYLLENHAAL/12JAKEGYLLENHAAL-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Jake Gyllenhaal in New York recently. He spent nearly a year with Jeff Bauman, the Boston Marathon bombing survivor he portrays in “Stronger.”",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/arts/12JAKEGYLLENHAAL/12JAKEGYLLENHAAL-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Jake Gyllenhaal in New York recently. He spent nearly a year with Jeff Bauman, the Boston Marathon bombing survivor he portrays in “Stronger.”",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/arts/12JAKEGYLLENHAAL/12JAKEGYLLENHAAL-articleInline.jpg",
+          "format": "Normal",
+          "height": 285,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Jake Gyllenhaal in New York recently. He spent nearly a year with Jeff Bauman, the Boston Marathon bombing survivor he portrays in “Stronger.”",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/arts/12JAKEGYLLENHAAL/12JAKEGYLLENHAAL-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Jake Gyllenhaal in New York recently. He spent nearly a year with Jeff Bauman, the Boston Marathon bombing survivor he portrays in “Stronger.”",
+          "copyright": "Bryan Derballa for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/arts/12JAKEGYLLENHAAL/12JAKEGYLLENHAAL-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Jake Gyllenhaal in New York recently. He spent nearly a year with Jeff Bauman, the Boston Marathon bombing survivor he portrays in “Stronger.”",
+          "copyright": "Bryan Derballa for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EuFTCA"
+    },
+    {
+      "section": "N.Y. / Region",
+      "subsection": "",
+      "title": "An Ending for a Love Story",
+      "abstract":
+        "Kenneth and Peter were together for 59 years, a rarity in their world. And when Peter died, Kenneth was ready for that last Champagne and caviar.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/nyregion/an-ending-for-a-love-story.html",
+      "byline": "By JOHN LELAND",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T18:16:10-05:00",
+      "created_date": "2018-01-10T17:30:13-05:00",
+      "published_date": "2018-01-10T17:30:13-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/nyregion/14leedom/14leedom-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ken Leedom, right, and Peter Cott as newlyweds, August 2013. They had been a couple since the 1950s. Mr. Cott died in 2014; Mr. Leedom died on Jan. 5.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/nyregion/14leedom/14leedom-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ken Leedom, right, and Peter Cott as newlyweds, August 2013. They had been a couple since the 1950s. Mr. Cott died in 2014; Mr. Leedom died on Jan. 5.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/nyregion/14leedom/14leedom-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ken Leedom, right, and Peter Cott as newlyweds, August 2013. They had been a couple since the 1950s. Mr. Cott died in 2014; Mr. Leedom died on Jan. 5.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/nyregion/14leedom/merlin_72616279_c9f57cf0-73c2-4f2b-a81c-121ac2589783-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ken Leedom, right, and Peter Cott as newlyweds, August 2013. They had been a couple since the 1950s. Mr. Cott died in 2014; Mr. Leedom died on Jan. 5.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/nyregion/14leedom/merlin_72616279_c9f57cf0-73c2-4f2b-a81c-121ac2589783-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ken Leedom, right, and Peter Cott as newlyweds, August 2013. They had been a couple since the 1950s. Mr. Cott died in 2014; Mr. Leedom died on Jan. 5.",
+          "copyright": "Nicole Bengiveno/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2FolRLj"
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Review: Excellence Pursued in ‘Paddington 2’",
+      "abstract": "A neighborly bear makes for an adorable sequel.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/movies/paddington-2-review.html",
+      "byline": "By TEO BUGBEE",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T11:00:01-05:00",
+      "created_date": "2018-01-10T11:00:01-05:00",
+      "published_date": "2018-01-10T11:00:01-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Movies", "Paddington 2 (Movie)"],
+      "org_facet": [],
+      "per_facet": ["Whishaw, Ben", "King, Paul"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12paddington-1/paddington-1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ben Whishaw voices the amiable bear in &ldquo;Paddington 2.&rdquo;",
+          "copyright": "Warner Bros."
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12paddington-1/paddington-1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ben Whishaw voices the amiable bear in &ldquo;Paddington 2.&rdquo;",
+          "copyright": "Warner Bros."
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12paddington-1/paddington-1-articleInline.jpg",
+          "format": "Normal",
+          "height": 107,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ben Whishaw voices the amiable bear in &ldquo;Paddington 2.&rdquo;",
+          "copyright": "Warner Bros."
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12paddington-1/paddington-1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ben Whishaw voices the amiable bear in &ldquo;Paddington 2.&rdquo;",
+          "copyright": "Warner Bros."
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/12/movies/12paddington-1/paddington-1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1152,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Ben Whishaw voices the amiable bear in &ldquo;Paddington 2.&rdquo;",
+          "copyright": "Warner Bros."
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fnz5YM"
+    },
+    {
+      "section": "Arts",
+      "subsection": "Television",
+      "title": "Review: The Moping Comics of ‘Alone Together’",
+      "abstract":
+        "The two friends in this show on Freeform, yet another autobiographical comedy about comedy, have confused complaining for companionship.",
+      "url":
+        "https://www.nytimes.com/2018/01/09/arts/television/alone-together-review-freeform.html",
+      "byline": "By MARGARET LYONS",
+      "item_type": "Article",
+      "updated_date": "2018-01-09T05:00:26-05:00",
+      "created_date": "2018-01-09T05:00:26-05:00",
+      "published_date": "2018-01-09T05:00:26-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Television", "Alone Together (TV Program)"],
+      "org_facet": ["Freeform (TV Network)"],
+      "per_facet": ["Aflalo, Benji", "Povitsky, Esther"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/arts/09alone-together/09alone-together-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Benji Aflalo and Esther Povitsky are partners in misery in “Alone Together.”",
+          "copyright": "Byron Cohen/Freeform"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/arts/09alone-together/09alone-together-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Benji Aflalo and Esther Povitsky are partners in misery in “Alone Together.”",
+          "copyright": "Byron Cohen/Freeform"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/arts/09alone-together/09alone-together-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Benji Aflalo and Esther Povitsky are partners in misery in “Alone Together.”",
+          "copyright": "Byron Cohen/Freeform"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/arts/09alone-together/09alone-together-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Benji Aflalo and Esther Povitsky are partners in misery in “Alone Together.”",
+          "copyright": "Byron Cohen/Freeform"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/arts/09alone-together/09alone-together-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Benji Aflalo and Esther Povitsky are partners in misery in “Alone Together.”",
+          "copyright": "Byron Cohen/Freeform"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EoWl7y"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "The C.D.C. Wants to Get People Prepared for Nuclear War",
+      "abstract":
+        "The nation’s public health agency says a workshop was scheduled months ago, before President Trump’s recent tweets about nuclear buttons and North Korea.",
+      "url":
+        "https://www.nytimes.com/2018/01/05/health/cdc-nuclear-attack.html",
+      "byline": "By SHEILA KAPLAN",
+      "item_type": "Article",
+      "updated_date": "2018-01-05T14:39:40-05:00",
+      "created_date": "2018-01-05T14:39:40-05:00",
+      "published_date": "2018-01-05T14:39:40-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Nuclear Weapons",
+        "Disasters and Emergencies",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Centers for Disease Control and Prevention"],
+      "per_facet": ["Trump, Donald J"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/06/science/06CDC/06CDC-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Officials in front of a Cold War-era civil defense exhibit at the Port Authority Bus Terminal showing New York City aflame. Unlikely as nuclear war may be, the Centers for Disease Control and Prevention will present a workshop detailing what survivors should do after a nuclear weapon detonates.",
+          "copyright": "Patrick Burns/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/06/science/06CDC/06CDC-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Officials in front of a Cold War-era civil defense exhibit at the Port Authority Bus Terminal showing New York City aflame. Unlikely as nuclear war may be, the Centers for Disease Control and Prevention will present a workshop detailing what survivors should do after a nuclear weapon detonates.",
+          "copyright": "Patrick Burns/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/06/science/06CDC/06CDC-articleInline.jpg",
+          "format": "Normal",
+          "height": 138,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Officials in front of a Cold War-era civil defense exhibit at the Port Authority Bus Terminal showing New York City aflame. Unlikely as nuclear war may be, the Centers for Disease Control and Prevention will present a workshop detailing what survivors should do after a nuclear weapon detonates.",
+          "copyright": "Patrick Burns/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/06/science/06CDC/06CDC-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Officials in front of a Cold War-era civil defense exhibit at the Port Authority Bus Terminal showing New York City aflame. Unlikely as nuclear war may be, the Centers for Disease Control and Prevention will present a workshop detailing what survivors should do after a nuclear weapon detonates.",
+          "copyright": "Patrick Burns/The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/06/science/06CDC/merlin_39677794_f1da1d85-65ba-4ae1-ac4a-f6bab88ce472-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1628,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Officials in front of a Cold War-era civil defense exhibit at the Port Authority Bus Terminal showing New York City aflame. Unlikely as nuclear war may be, the Centers for Disease Control and Prevention will present a workshop detailing what survivors should do after a nuclear weapon detonates.",
+          "copyright": "Patrick Burns/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2F2ADHt"
+    },
+    {
+      "section": "Well",
+      "subsection": "Move",
+      "title": "Facial Exercises May Make You Look 3 Years Younger",
+      "abstract":
+        "After “nonsurgical face-lifts,“ dermatologists noted significant improvements in the fullness of women’s cheeks.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/well/move/facial-exercises-may-make-you-look-3-years-younger.html",
+      "byline": "By GRETCHEN REYNOLDS",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T00:35:12-05:00",
+      "created_date": "2018-01-10T00:32:02-05:00",
+      "published_date": "2018-01-10T00:32:02-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Face",
+        "Skin",
+        "Women and Girls",
+        "Exercise",
+        "Muscles",
+        "Age, Chronological",
+        "Plastic Surgery"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/16/well/face-exercises/face-exercises-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "The upper cheeks and bags under the eyes modestly improved starting at week eight (center) and, by week 20 (right), dermatologists rated the mid-face as more full and youthful.",
+          "copyright":
+            "Courtesy Northwestern University Feinberg School of Medicine"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/16/well/face-exercises/face-exercises-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "The upper cheeks and bags under the eyes modestly improved starting at week eight (center) and, by week 20 (right), dermatologists rated the mid-face as more full and youthful.",
+          "copyright":
+            "Courtesy Northwestern University Feinberg School of Medicine"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/16/well/face-exercises/face-exercises-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 84,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "The upper cheeks and bags under the eyes modestly improved starting at week eight (center) and, by week 20 (right), dermatologists rated the mid-face as more full and youthful.",
+          "copyright":
+            "Courtesy Northwestern University Feinberg School of Medicine"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/16/well/face-exercises/face-exercises-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "The upper cheeks and bags under the eyes modestly improved starting at week eight (center) and, by week 20 (right), dermatologists rated the mid-face as more full and youthful.",
+          "copyright":
+            "Courtesy Northwestern University Feinberg School of Medicine"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/16/well/face-exercises/face-exercises-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 557,
+          "width": 1266,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "The upper cheeks and bags under the eyes modestly improved starting at week eight (center) and, by week 20 (right), dermatologists rated the mid-face as more full and youthful.",
+          "copyright":
+            "Courtesy Northwestern University Feinberg School of Medicine"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Eu5MTo"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title":
+        "Emperor Penguins: Good Dads, but Less Dedicated Than You May Have Thought",
+      "abstract":
+        "\"March of the Penguins” showed penguins going up to 115 days without food, but new research suggests that many hunted for food during breeding season.",
+      "url":
+        "https://www.nytimes.com/2018/01/09/science/emperor-penguins-dads.html",
+      "byline": "By DOUGLAS QUENQUA",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T09:43:27-05:00",
+      "created_date": "2018-01-09T18:00:28-05:00",
+      "published_date": "2018-01-09T18:00:28-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Penguins", "Parenting", "Reproduction (Biological)"],
+      "org_facet": ["Journal of Experimental Biology"],
+      "per_facet": ["Kooyman, Gerald L"],
+      "geo_facet": ["Antarctic Regions"],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/science/10TB-PENGUINS/10TB-PENGUINS-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Adult emperor penguins and their chicks near a research station in Terre Adélie, Antarctica. Researchers found that male penguins from one colony often slipped out to hunt during breeding season.",
+          "copyright": "Samuel Blanc/Rex Features, via Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/science/10TB-PENGUINS/10TB-PENGUINS-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Adult emperor penguins and their chicks near a research station in Terre Adélie, Antarctica. Researchers found that male penguins from one colony often slipped out to hunt during breeding season.",
+          "copyright": "Samuel Blanc/Rex Features, via Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/science/10TB-PENGUINS/merlin_132075962_6583069c-4513-4de9-abf5-00033a9ab0f8-articleInline.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Adult emperor penguins and their chicks near a research station in Terre Adélie, Antarctica. Researchers found that male penguins from one colony often slipped out to hunt during breeding season.",
+          "copyright": "Samuel Blanc/Rex Features, via Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/science/10TB-PENGUINS/10TB-PENGUINS-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Adult emperor penguins and their chicks near a research station in Terre Adélie, Antarctica. Researchers found that male penguins from one colony often slipped out to hunt during breeding season.",
+          "copyright": "Samuel Blanc/Rex Features, via Associated Press"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/10/science/10TB-PENGUINS/merlin_132075962_6583069c-4513-4de9-abf5-00033a9ab0f8-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Adult emperor penguins and their chicks near a research station in Terre Adélie, Antarctica. Researchers found that male penguins from one colony often slipped out to hunt during breeding season.",
+          "copyright": "Samuel Blanc/Rex Features, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Erde1q"
+    },
+    {
+      "section": "Science",
+      "subsection": "",
+      "title":
+        "Finding the Oldest Fossils of Butterflies Using a Human Nose Hair",
+      "abstract":
+        "While studying ancient pollen in the black goop of sediment collected in Germany, researchers discovered 200 million-year-old butterfly scales.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/science/fossils-butterflies-moths.html",
+      "byline": "By NICHOLAS ST. FLEUR",
+      "item_type": "Article",
+      "updated_date": "2018-01-10T16:18:52-05:00",
+      "created_date": "2018-01-10T16:18:52-05:00",
+      "published_date": "2018-01-10T16:18:52-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Butterflies and Moths",
+        "Flowers and Plants",
+        "Fossils",
+        "Paleontology"
+      ],
+      "org_facet": ["Science Advances (Journal)"],
+      "per_facet": ["van Eldijk, Timo"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/science/11TB-BUTTERFLY-02/11TB-BUTTERFLY-02-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A scanning electron mircoscope image of the body and wings of a proboscid-bearing moth that is covered densely with scales.",
+          "copyright": "Hossein Rajaei"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/science/11TB-BUTTERFLY-02/11TB-BUTTERFLY-02-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A scanning electron mircoscope image of the body and wings of a proboscid-bearing moth that is covered densely with scales.",
+          "copyright": "Hossein Rajaei"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/science/11TB-BUTTERFLY-02/merlin_132102263_6df5d30c-a48b-4088-bb45-289bef833e45-articleInline.jpg",
+          "format": "Normal",
+          "height": 142,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A scanning electron mircoscope image of the body and wings of a proboscid-bearing moth that is covered densely with scales.",
+          "copyright": "Hossein Rajaei"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/science/11TB-BUTTERFLY-02/merlin_132102263_6df5d30c-a48b-4088-bb45-289bef833e45-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A scanning electron mircoscope image of the body and wings of a proboscid-bearing moth that is covered densely with scales.",
+          "copyright": "Hossein Rajaei"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/11/science/11TB-BUTTERFLY-02/merlin_132102263_6df5d30c-a48b-4088-bb45-289bef833e45-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1535,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A scanning electron mircoscope image of the body and wings of a proboscid-bearing moth that is covered densely with scales.",
+          "copyright": "Hossein Rajaei"
+        }
+      ],
+      "short_url": "https://nyti.ms/2Fnqa9M"
+    },
+    {
+      "section": "Movies",
+      "subsection": "",
+      "title": "Tonya Harding Would Like Her Apology Now",
+      "abstract":
+        "In the movie, “I, Tonya,” the disgraced figure skater looks back on the 1994 Nancy Kerrigan scandal and her struggles to tell her side of the story.",
+      "url":
+        "https://www.nytimes.com/2018/01/10/movies/tonya-harding-i-tonya-nancy-kerrigan-scandal.html",
+      "byline": "By TAFFY BRODESSER-AKNER",
+      "item_type": "Article",
+      "updated_date": "2018-01-11T09:00:44-05:00",
+      "created_date": "2018-01-10T05:00:24-05:00",
+      "published_date": "2018-01-10T05:00:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Figure Skating", "Movies", "I, Tonya (Movie)"],
+      "org_facet": [],
+      "per_facet": ["Harding, Tonya", "Kerrigan, Nancy"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/arts/14TONYAHARDING1/14TONYAHARDING1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "What do we know about her? Tonya Harding, shown at Mountain View Ice Arena in Vancouver, Wash., is back in the spotlight and has a few things she would like to clear up.",
+          "copyright": "Kyle Johnson for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/arts/14TONYAHARDING1/14TONYAHARDING1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "What do we know about her? Tonya Harding, shown at Mountain View Ice Arena in Vancouver, Wash., is back in the spotlight and has a few things she would like to clear up.",
+          "copyright": "Kyle Johnson for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/arts/14TONYAHARDING1/14TONYAHARDING1-articleInline.jpg",
+          "format": "Normal",
+          "height": 253,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "What do we know about her? Tonya Harding, shown at Mountain View Ice Arena in Vancouver, Wash., is back in the spotlight and has a few things she would like to clear up.",
+          "copyright": "Kyle Johnson for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/arts/14TONYAHARDING1/14TONYAHARDING1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "What do we know about her? Tonya Harding, shown at Mountain View Ice Arena in Vancouver, Wash., is back in the spotlight and has a few things she would like to clear up.",
+          "copyright": "Kyle Johnson for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/arts/14TONYAHARDING1/14TONYAHARDING1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 2048,
+          "width": 1536,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "What do we know about her? Tonya Harding, shown at Mountain View Ice Arena in Vancouver, Wash., is back in the spotlight and has a few things she would like to clear up.",
+          "copyright": "Kyle Johnson for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2ErYqiZ"
+    },
+    {
+      "section": "Opinion",
+      "subsection": "Sunday Review",
+      "title": "Why 2017 Was the Best Year in Human History",
+      "abstract": "Here’s what’s more important than a Trump tweet.",
+      "url":
+        "https://www.nytimes.com/2018/01/06/opinion/sunday/2017-progress-illiteracy-poverty.html",
+      "byline": "By NICHOLAS KRISTOF",
+      "item_type": "Article",
+      "updated_date": "2018-01-06T14:30:23-05:00",
+      "created_date": "2018-01-06T14:30:24-05:00",
+      "published_date": "2018-01-06T14:30:24-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Two Thousand Seventeen",
+        "Poverty",
+        "Illiteracy",
+        "Water",
+        "Human Rights and Human Rights Violations"
+      ],
+      "org_facet": [],
+      "per_facet": ["Pinker, Steven"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/07/opinion/sunday/07kristof/07kristof-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Some young refugees who fled war in Syria now live in Germany.",
+          "copyright": "Gordon Welters for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/07/opinion/sunday/07kristof/07kristof-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Some young refugees who fled war in Syria now live in Germany.",
+          "copyright": "Gordon Welters for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/07/opinion/sunday/07kristof/07kristof-articleInline.jpg",
+          "format": "Normal",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Some young refugees who fled war in Syria now live in Germany.",
+          "copyright": "Gordon Welters for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/07/opinion/sunday/07kristof/07kristof-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Some young refugees who fled war in Syria now live in Germany.",
+          "copyright": "Gordon Welters for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/07/opinion/sunday/07kristof/07kristof-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1356,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Some young refugees who fled war in Syria now live in Germany.",
+          "copyright": "Gordon Welters for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2F7XG3A"
+    },
+    {
+      "section": "Magazine",
+      "subsection": "",
+      "title": "Why Are Our Most Important Teachers Paid the Least?",
+      "abstract":
+        "Many preschool teachers live on the edge of financial ruin. Would improving their training — and their pay — improve outcomes for their students?",
+      "url":
+        "https://www.nytimes.com/2018/01/09/magazine/why-are-our-most-important-teachers-paid-the-least.html",
+      "byline": "By JENEEN INTERLANDI",
+      "item_type": "Article",
+      "updated_date": "2018-01-09T05:00:26-05:00",
+      "created_date": "2018-01-09T05:00:27-05:00",
+      "published_date": "2018-01-09T05:00:27-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Teachers and School Employees",
+        "Education (Pre-School)",
+        "Children and Childhood",
+        "Head Start Program",
+        "Vouchers",
+        "Segregation and Desegregation",
+        "Income Inequality",
+        "Race and Ethnicity",
+        "Education (K-12)",
+        "Wages and Salaries",
+        "teacher credentials",
+        "Credentials and Teachers"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/magazine/14mag-CHILDHOOD1/14mag-CHILDHOOD1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Kejo Kelly in the playground of Springfield Arbors, now called Bright Futures.",
+          "copyright": "Natalie Keyssar for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/magazine/14mag-CHILDHOOD1/14mag-CHILDHOOD1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Kejo Kelly in the playground of Springfield Arbors, now called Bright Futures.",
+          "copyright": "Natalie Keyssar for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/magazine/14mag-CHILDHOOD1/14mag-CHILDHOOD1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 190,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Kejo Kelly in the playground of Springfield Arbors, now called Bright Futures.",
+          "copyright": "Natalie Keyssar for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/magazine/14mag-CHILDHOOD1/14mag-CHILDHOOD1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Kejo Kelly in the playground of Springfield Arbors, now called Bright Futures.",
+          "copyright": "Natalie Keyssar for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/14/magazine/14mag-CHILDHOOD1/14mag-14childhood-t_CA0-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "Kejo Kelly in the playground of Springfield Arbors, now called Bright Futures.",
+          "copyright": "Natalie Keyssar for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EmzucP"
+    },
+    {
+      "section": "Health",
+      "subsection": "",
+      "title": "Brain Surgery in 3-D: Coming Soon to the Operating Theater",
+      "abstract":
+        "New “videomicroscopes” offer astounding images, helping surgeons perform and collaborate on delicate brain and spine operations.",
+      "url":
+        "https://www.nytimes.com/2018/01/08/health/surgery-3d-microscope-moyamoya.html",
+      "byline": "By DENISE GRADY",
+      "item_type": "Article",
+      "updated_date": "2018-01-08T14:05:35-05:00",
+      "created_date": "2018-01-08T14:05:35-05:00",
+      "published_date": "2018-01-08T14:05:35-05:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Surgery and Surgeons",
+        "Brain",
+        "3-D Devices and Effects",
+        "Neck"
+      ],
+      "org_facet": [
+        "Lenox Hill Hospital",
+        "Northwell Health",
+        "Olympus Corp",
+        "Sony Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/science/09SCI-SURGERY1/09SCI-SURGERY1-thumbStandard.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A surgical team led by Dr. David Langer at Lenox Hill Hospital in Manhattan operated on arteries in the brain of Anita Roy of the Bronx. The surgeons used a videomicroscope, a novel device that puts a magnified, high-resolution 3-D image on a screen so that an entire team may see the progress of the operation.",
+          "copyright": "Beatrice de Gea for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/science/09SCI-SURGERY1/09SCI-SURGERY1-thumbLarge.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A surgical team led by Dr. David Langer at Lenox Hill Hospital in Manhattan operated on arteries in the brain of Anita Roy of the Bronx. The surgeons used a videomicroscope, a novel device that puts a magnified, high-resolution 3-D image on a screen so that an entire team may see the progress of the operation.",
+          "copyright": "Beatrice de Gea for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/science/09SCI-SURGERY1/09SCI-SURGERY1-articleInline.jpg",
+          "format": "Normal",
+          "height": 114,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A surgical team led by Dr. David Langer at Lenox Hill Hospital in Manhattan operated on arteries in the brain of Anita Roy of the Bronx. The surgeons used a videomicroscope, a novel device that puts a magnified, high-resolution 3-D image on a screen so that an entire team may see the progress of the operation.",
+          "copyright": "Beatrice de Gea for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/science/09SCI-SURGERY1/09SCI-SURGERY1-mediumThreeByTwo210.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A surgical team led by Dr. David Langer at Lenox Hill Hospital in Manhattan operated on arteries in the brain of Anita Roy of the Bronx. The surgeons used a videomicroscope, a novel device that puts a magnified, high-resolution 3-D image on a screen so that an entire team may see the progress of the operation.",
+          "copyright": "Beatrice de Gea for The New York Times"
+        },
+        {
+          "url":
+            "https://static01.nyt.com/images/2018/01/09/science/09SCI-SURGERY1/09SURGERY1-superJumbo.jpg",
+          "format": "superJumbo",
+          "height": 1370,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption":
+            "A surgical team led by Dr. David Langer at Lenox Hill Hospital in Manhattan operated on arteries in the brain of Anita Roy of the Bronx. The surgeons used a videomicroscope, a novel device that puts a magnified, high-resolution 3-D image on a screen so that an entire team may see the progress of the operation.",
+          "copyright": "Beatrice de Gea for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/2EnrbNH"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+js
+_js
+css
+*.mp4
+*.ogv
+*.webm
+favicon.ico
+hamburger.png
+index.html
+hamburgers.gemspec
+Gemfile
+lib/

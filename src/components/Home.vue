@@ -1,0 +1,101 @@
+<template>
+    <v-container fluid grid-list-sm>
+        <h1 class="text-xs-center nyt" style="font-size: 72px; margin-top: 10px; margin-bottom: 30px">NYT Newswire</h1>
+
+        <span v-if="loading" class="nyt loading">Loading&nbsp;
+            <pulse-loader style="display: inline-block"></pulse-loader>
+        </span>
+
+        <v-layout row wrap class="full-height">
+            <v-flex xs12 sm4 md3 v-for="i in totalCards" :key="i">
+                <v-layout column>
+                    <v-flex d-flex>
+                        <!-- <v-card color="blue-grey" dark tile flat>
+                            <v-card-text>
+                                <p v-dummy="50"></p>
+                            </v-card-text>
+                        </v-card> -->
+
+                        <v-card style="margin: 2px;" color="blue-grey darken-3" tile raised>
+                            <v-card-media src="/static/docks.jpg" height="200px">
+                            </v-card-media>
+                            <v-card-title primary-title>
+                                <div>
+                                    <h3 class="headline mb-0">
+                                        <p v-dummy="3,8"></p>
+                                    </h3>
+                                    <div>
+                                        <p v-dummy="20,60"></p>
+                                    </div>
+                                </div>
+                            </v-card-title>
+
+
+                        </v-card>
+                    </v-flex>
+
+                </v-layout>
+            </v-flex>
+
+
+
+        </v-layout>
+    </v-container>
+</template>
+
+
+<script>
+    import PulseLoader from 'vue-spinner/src/PulseLoader.vue';
+    import { apiKeys } from '@/data/api-keys'
+    import axios from 'axios'
+    export default {
+        mounted() {
+            console.table({ apiKeys })
+            axios.get('/static/data/mock.json')
+                .then(function (response) {
+                    console.log(response);
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
+        },
+        methods: {
+            showAbstract: function (i) {
+                this.show[i - 1] = !this.show[i - 1]
+                // Find better way?
+                this.$forceUpdate()
+            },
+
+        },
+        components: {
+            PulseLoader
+        },
+
+        data() {
+            return {
+                show: false,
+                totalCards: 25,
+                show: [],
+                loading: false
+            }
+        }
+    }
+</script>
+
+<style>
+    .nyt {
+        font-family: 'Bevan', cursive;
+    }
+
+    .full-height .flex {
+        display: flex
+    }
+
+    .full-height .flex>.card {
+        flex: 1 1 auto
+    }
+
+    .loading {
+        font-size: 45px;
+    }
+</style>
