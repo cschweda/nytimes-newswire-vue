@@ -1,5 +1,5 @@
 <template>
-    <v-container fluid grid-list-sm style="margin-bottom: 35px">
+    <v-container fluid grid-list-sm style="margin-bottom: 25px">
         <h1 class="text-xs-center nyt" style="font-size: 80px; margin-top: 10px; margin-bottom: 10px">NYT Top Stories</h1>
 
         <div class="loader">
