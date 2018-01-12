@@ -1,6 +1,18 @@
 <template>
     <v-container fluid grid-list-sm style="margin-bottom: 45px">
+        <div style="text-align: center; height: 60px; float: left">
+            <div style="margin-bottom: 12px; font-size: 12px;">Open links in new window</div>
+
+
+            <switches v-model="enabled" color="default"></switches>
+
+            <div v-if="enabled" class="enabledNotification">Enabled</div>
+        </div>
+        <div style="clear: both"></div>
+
+
         <h1 class="text-xs-center nyt" style="font-size: 80px; margin-top: 10px; margin-bottom: 10px">NYT Top Stories</h1>
+
 
         <div class="loader">
             <span v-if="loading" class="nyt">
@@ -37,16 +49,16 @@
                 <v-layout column>
                     <v-flex d-flex>
 
-                        <v-card :href="result.url" class="post" style="margin: 2px;" color="blue-grey darken-3" tile raised>
+                        <v-card :href="result.url" :target="setTarget()" class="post" style="margin: 2px;" color="blue-grey darken-3" tile raised>
                             <v-card-media :src="result.image_url" height="200px">
                             </v-card-media>
-                           
+
                             <v-card-title primary-title>
                                 <div>
                                     <h3 class="headline mb-0">
                                         <p class="nyt">{{result.title}}</p>
                                     </h3>
-                                    
+
                                     <div>
                                         <p>{{result.abstract}}</p>
                                     </div>
@@ -71,18 +83,22 @@
     import axios from 'axios'
     import uuidv4 from 'uuid/v4';
     import dateFormat from 'dateformat'
+    import Switches from 'vue-switches';
 
     export default {
         mounted() {
             this.section = 'Home'
             this.fetchArticles(this.section)
 
-
         },
+
         methods: {
             makeFriendlyDate: function (d) {
                 // return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM:ss TT");
                 return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM TT");
+            },
+            setTarget: function () {
+                return (this.enabled ? "_blank" : "_self");
             },
             changeSection: function (e) {
                 this.section = e
@@ -124,7 +140,8 @@
 
         },
         components: {
-            PulseLoader
+            PulseLoader,
+            Switches
         },
 
         data() {
@@ -132,6 +149,7 @@
                 section: 'Home',
                 loading: true,
                 errors: false,
+                enabled: true,
                 lastUpdated: null,
                 results: [],
                 sections: [
@@ -196,5 +214,10 @@
 
     .fade {
         color: #fff
+    }
+
+    .enabledNotification {
+        color: #35ba51;
+        font-family: 'Lato', sans-serif;
     }
 </style>
