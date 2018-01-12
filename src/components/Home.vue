@@ -1,13 +1,15 @@
 <template>
     <v-container fluid grid-list-sm style="margin-bottom: 45px">
-        <div style="text-align: center; height: 60px; float: left">
-            <div style="margin-bottom: 12px; font-size: 12px;">Open links in new window</div>
-
-
+        <div style="height: 80px; float: left; margin-left: 20px; text-align: center">
+            <div style="margin-bottom: 12px; font-size: 12px; color: #bbb;">Open links in new windows</div>
             <switches v-model="enabled" color="default"></switches>
-
             <div v-if="enabled" class="enabledNotification">Enabled</div>
         </div>
+
+
+
+
+
         <div style="clear: both"></div>
 
 
