@@ -1,6 +1,8 @@
-# nytimes-demo
+# New York Times Top Stories
 
-> A Vue.js project
+Practice project built with [Vue](https://vuejs.org/) and [Vuetify](https://vuetifyjs.com/).
+
+Demo site: https://nyt.metaincognita.com
 
 ## Build Setup
 
@@ -18,4 +20,10 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## API keys
+
+Before building the app, you'll need an API key.
+
+- Obtain the **Top Stories**  API keys here: http://developer.nytimes.com/
+- Rename ```api-keys-sample.js``` to ```api-keys.js```
+- Paste in your key

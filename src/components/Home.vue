@@ -1,21 +1,30 @@
 <template>
-    <v-container fluid grid-list-sm>
-        <h1 class="text-xs-center nyt" style="font-size: 80px; margin-top: 10px; margin-bottom: 10px">NYT Newswire</h1>
+    <v-container fluid grid-list-sm style="margin-bottom: 35px">
+        <h1 class="text-xs-center nyt" style="font-size: 80px; margin-top: 10px; margin-bottom: 10px">NYT Top Stories</h1>
 
-        <span v-if="loading" class="nyt loading">Loading&nbsp;
-            <pulse-loader style="display: inline-block"></pulse-loader>
-        </span>
+        <div class="loader">
+            <span v-if="loading" class="nyt">
+                <pulse-loader style="display: inline-block"></pulse-loader>
+            </span>
+        </div>
 
 
 
-        <center>
-            <div style="margin-bottom: 40px">
-                <v-select v-bind:items="sections" @change="changeSection" v-model="section" label="Current section" autocomplete style="width: 350px; font-size: 30px; color: #555"
+
+
+        <div style="margin: 0 auto; text-align: center; margin-bottom: 50px">
+
+            <div style="margin-bottom: 40px; margin: 0 auto;">
+                <v-select v-bind:items="sections" @change="changeSection" v-model="section" label="Current section" autocomplete style="width: 350px; font-size: 30px; color: #555; margin: 0 auto;"
                     class="nyt"></v-select>
                 <div style="margin-top: -20px; font-size: 12px; color: #bbb">Updated: {{lastUpdated}}</div>
             </div>
 
-        </center>
+            <div v-if="errors">
+                <h1 class="nyt" style="color: red">Error fetching data</h1>
+            </div>
+
+        </div>
 
         <div style="clear: both"></div>
 
@@ -23,7 +32,7 @@
 
 
 
-        <v-layout row wrap class="full-height">
+        <v-layout row wrap class="full-height" v-if="!errors">
             <v-flex xs12 sm4 md3 v-for="result in results" :key="result.uuid">
                 <v-layout column>
                     <v-flex d-flex>
@@ -31,14 +40,17 @@
                         <v-card :href="result.url" class="post" style="margin: 2px;" color="blue-grey darken-3" tile raised>
                             <v-card-media :src="result.image_url" height="200px">
                             </v-card-media>
+                           
                             <v-card-title primary-title>
                                 <div>
                                     <h3 class="headline mb-0">
                                         <p class="nyt">{{result.title}}</p>
                                     </h3>
+                                    
                                     <div>
                                         <p>{{result.abstract}}</p>
                                     </div>
+                                    <span class="grey--text">{{makeFriendlyDate(result.published_date)}}</span>
                                 </div>
                             </v-card-title>
 
@@ -65,30 +77,38 @@
             this.section = 'Home'
             this.fetchArticles(this.section)
 
+
         },
         methods: {
-
+            makeFriendlyDate: function (d) {
+                // return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM:ss TT");
+                return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM TT");
+            },
             getHref: function (x) {
                 return x.toString();
             },
             changeSection: function (e) {
                 this.section = e
+                this.loading = true;
                 this.fetchArticles(this.section)
             },
             fetchArticles: function (section) {
                 let vm = this
-                section = section.toLowerCase();
+                section = section.toLowerCase().replace(/\s/g, '');
+                console.log(section)
                 let url = `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${apiKeys.topStories}`
                 axios.get(url)
                     .then(function (response) {
-                        console.log(response);
+                        //console.log(response);
+                        vm.loading = false;
                         vm.results = response.data.results
                         vm.lastUpdated = dateFormat(response.data.last_updated, "dddd, mmmm dS, yyyy, h:MM:ss TT");
                         vm.processPosts();
                     })
                     .catch(function (error) {
-                        vm.errors = error
+                        vm.errors = true
                         console.log(error);
+                        vm.$forceUpdate();
                     });
             },
             processPosts: function () {
@@ -123,13 +143,13 @@
                 section: 'Home',
                 show: false,
                 totalCards: 25,
-                loading: false,
-                errors: [],
+                loading: true,
+                errors: false,
                 lastUpdated: null,
                 results: [],
                 a1: null,
                 sections: [
-                    'Home', 'Opinion', 'World', 'National'
+                    'Home', 'Opinion', 'World', 'National', 'Politics', 'Upshot', 'Business', 'Technology', 'Science', 'Health', 'Sports', 'Arts', 'Books', 'Movies', 'Theater', 'Sunday Review', 'Fashion', 'T Magazine', 'Food', 'Travel', 'Magazine', 'Real Eastate', 'Automobiles', 'Insider'
                 ]
             }
         }
@@ -149,8 +169,12 @@
         flex: 1 1 auto
     }
 
-    .loading {
-        font-size: 45px;
+
+
+    .loader {
+        position: absolute;
+        right: 5px;
+        top: 5px;
     }
 
     .post:hover {

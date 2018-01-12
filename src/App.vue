@@ -1,6 +1,7 @@
 <template>
   <v-app id="inspire" dark>
-    <!-- <v-navigation-drawer temporary v-model="drawer" app>
+    <main>
+      <!-- <v-navigation-drawer temporary v-model="drawer" app>
       <v-list dense style="margin-top: 60px">
         <v-list-tile @click="">
           <v-list-tile-action>
@@ -30,11 +31,19 @@
     </div> -->
 
 
-    <router-view />
+      <router-view />
 
-    <v-footer app fixed>
-      <span>&copy; 2017</span>
-    </v-footer>
+      <v-footer app fixed style="padding: 15px 0 0 0">
+        <div style="margin: 0 auto;">
+          <p class="footerText">
+              <!-- <i class="fab fa-github"></i>&nbsp;&nbsp;GitHub </p> -->
+              
+                  <i class='fab fa-github'></i>
+                  <span id="text"><a href="https://github.com/cschweda/nytimes-newswire-vue">Github</a></span>
+          </p>
+        </div>
+      </v-footer>
+    </main>
   </v-app>
 </template>
 
@@ -82,4 +91,6 @@
     background: #424242;
     z-index: 20;
   }
+
+  .footerText {font-family: 'Lato'; text-transform: uppercase; font-size: 12px;}
 </style>
