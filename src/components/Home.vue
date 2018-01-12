@@ -95,7 +95,7 @@
             fetchArticles: function (section) {
                 let vm = this
                 section = section.toLowerCase().replace(/\s/g, '');
-                console.log(section)
+                //console.log(section)
                 let url = `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${apiKeys.topStories}`
                 axios.get(url)
                     .then(function (response) {
@@ -114,12 +114,11 @@
             processPosts: function () {
                 let vm = this
                 let posts = this.results;
-                // Add image_url attribute
+                // Add extra attributes: image URL and uuids for the keys.
                 posts.map(post => {
                     let imgObj = post.multimedia.find(media => media.format === "superJumbo");
                     post.image_url = imgObj ? imgObj.url : "https://placehold.it/300x200?text=N/A";
                     post.uuid = uuidv4();
-                    post.lastUpdated = vm.lastUpdated
                 });
                 this.results = posts
 
