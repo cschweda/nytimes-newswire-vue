@@ -84,9 +84,6 @@
                 // return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM:ss TT");
                 return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM TT");
             },
-            getHref: function (x) {
-                return x.toString();
-            },
             changeSection: function (e) {
                 this.section = e
                 this.loading = true;
@@ -126,13 +123,6 @@
 
 
         },
-        computed: {
-            processedPosts() {
-
-
-            }
-
-        },
         components: {
             PulseLoader
         },
@@ -140,13 +130,10 @@
         data() {
             return {
                 section: 'Home',
-                show: false,
-                totalCards: 25,
                 loading: true,
                 errors: false,
                 lastUpdated: null,
                 results: [],
-                a1: null,
                 sections: [
                     'Home', 'Opinion', 'World', 'National', 'Politics', 'Upshot', 'Business', 'Technology', 'Science', 'Health', 'Sports', 'Arts', 'Books', 'Movies', 'Theater', 'Sunday Review', 'Fashion', 'T Magazine', 'Food', 'Travel', 'Magazine', 'Real Eastate', 'Automobiles', 'Insider'
                 ]
