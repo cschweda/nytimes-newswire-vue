@@ -10,10 +10,11 @@
 
         <center>
             <div style="margin-bottom: 40px">
-                <v-select v-bind:items="sections" @change="changeSection" v-model="section" label="Current section" autocomplete style="width: 350px; font-size: 30px; color: #555" class="nyt"></v-select>
+                <v-select v-bind:items="sections" @change="changeSection" v-model="section" label="Current section" autocomplete style="width: 350px; font-size: 30px; color: #555"
+                    class="nyt"></v-select>
                 <div style="margin-top: -20px; font-size: 12px; color: #bbb">Updated: {{lastUpdated}}</div>
             </div>
-            
+
         </center>
 
         <div style="clear: both"></div>
@@ -54,7 +55,7 @@
 
 <script>
     import PulseLoader from 'vue-spinner/src/PulseLoader.vue';
-    import { apiKeys } from '@/data/api-keys'
+    import { apiKeys } from '../api-keys.js'
     import axios from 'axios'
     import uuidv4 from 'uuid/v4';
     import dateFormat from 'dateformat'
@@ -167,21 +168,23 @@
     }
 
     .input-group--select .input-group__selections__comma {
-       
+
         font-size: 25px;
         color: #bbb !important;
-        
+
     }
 
     .input-group--select.input-group--focused .input-group--select__autocomplete {
-   
-    font-size: 25px;
-    color: #bbb !important;
-}
 
-.input-group__input {
-    min-height: 50px;
-}
+        font-size: 25px;
+        color: #bbb !important;
+    }
 
-.fade {color: #fff}
+    .input-group__input {
+        min-height: 50px;
+    }
+
+    .fade {
+        color: #fff
+    }
 </style>
