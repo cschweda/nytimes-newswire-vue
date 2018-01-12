@@ -117,7 +117,7 @@
                 // Add image_url attribute
                 posts.map(post => {
                     let imgObj = post.multimedia.find(media => media.format === "superJumbo");
-                    post.image_url = imgObj ? imgObj.url : "http://placehold.it/300x200?text=N/A";
+                    post.image_url = imgObj ? imgObj.url : "https://placehold.it/300x200?text=N/A";
                     post.uuid = uuidv4();
                     post.lastUpdated = vm.lastUpdated
                 });
