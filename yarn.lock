@@ -1766,6 +1766,10 @@ date-now@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/date-now/-/date-now-0.1.4.tgz#eaf439fd4d4848ad74e5cc7dbef200672b9e345b"
 
+dateformat@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/dateformat/-/dateformat-3.0.2.tgz#9a4df4bff158ac2f34bc637abdb15471607e1659"
+
 de-indent@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/de-indent/-/de-indent-1.0.2.tgz#b2038e846dc33baa5796128d0804b455b8c1e21d"
@@ -6417,9 +6421,9 @@ vue@^2.5.2:
   version "2.5.13"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.13.tgz#95bd31e20efcf7a7f39239c9aa6787ce8cf578e1"
 
-vuetify@^1.0.0-beta.3:
-  version "1.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-1.0.0-beta.3.tgz#a7f1002f687614dbba0d85d1bbbe08b81962fb3d"
+vuetify@^1.0.0-beta.4:
+  version "1.0.0-beta.4"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-1.0.0-beta.4.tgz#bd0e0235dd8de40df83f41d78f430483e87c72a1"
 
 watchpack@^1.4.0:
   version "1.4.0"

@@ -1,6 +1,6 @@
 <template>
   <v-app id="inspire" dark>
-    <v-navigation-drawer temporary v-model="drawer" app>
+    <!-- <v-navigation-drawer temporary v-model="drawer" app>
       <v-list dense style="margin-top: 60px">
         <v-list-tile @click="">
           <v-list-tile-action>
@@ -27,11 +27,8 @@
           <span class="hamburger-inner"></span>
         </span>
       </button>
-    </div>
+    </div> -->
 
-    <div>
-      <h1></h1>
-    </div>
 
     <router-view />
 

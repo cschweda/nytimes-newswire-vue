@@ -12,16 +12,18 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
+    "dateformat": "^3.0.2",
     "hamburgers": "^0.9.1",
     "node-sass": "^4.7.2",
     "postcss-font-magician": "^2.1.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.1",
+    "uuid": "^3.1.0",
     "vue": "^2.5.2",
     "vue-dummy": "^1.1.1",
     "vue-router": "^3.0.1",
     "vue-spinner": "^1.0.3",
-    "vuetify": "^1.0.0-beta.3"
+    "vuetify": "^1.0.0-beta.4"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
