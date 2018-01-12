@@ -55,7 +55,7 @@
 
 <script>
     import PulseLoader from 'vue-spinner/src/PulseLoader.vue';
-    import { apiKeys } from '../api-keys.js'
+    import { apiKeys } from '@/api-keys.js'
     import axios from 'axios'
     import uuidv4 from 'uuid/v4';
     import dateFormat from 'dateformat'
