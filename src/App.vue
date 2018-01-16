@@ -29,17 +29,13 @@
         </span>
       </button>
     </div> -->
-
-
       <router-view />
-
       <v-footer app fixed style="padding: 15px 0 0 0">
         <div style="margin: 0 auto;">
           <p class="footerText">
-              <!-- <i class="fab fa-github"></i>&nbsp;&nbsp;GitHub </p> -->
-              
-                  <i class='fab fa-github'></i>
-                  <span id="text"><a href="https://github.com/cschweda/nytimes-newswire-vue">Github</a></span>
+              <!-- <i class="fab fa-github"></i>&nbsp;&nbsp;GitHub </p> -->            
+            <i class='fab fa-github'></i>
+            <span id="text"><a href="https://github.com/cschweda/nytimes-newswire-vue">Github</a></span>
           </p>
         </div>
       </v-footer>
@@ -48,49 +44,49 @@
 </template>
 
 <script>
-  import "../static/vendor/hamburgers/_sass/hamburgers/hamburgers.scss"
-  export default {
-    data: () => ({
-      drawer: false,
+import "../static/vendor/hamburgers/_sass/hamburgers/hamburgers.scss";
+export default {
+  data: () => ({
+    drawer: false
+  }),
+  methods: {
+    toggleDrawer: function(e) {
+      this.drawer = !this.drawer;
 
-    }),
-    methods: {
-
-      toggleDrawer: function (e) {
-        this.drawer = !this.drawer
-
-        return
-      }
-
-    },
-    props: {
-      source: String
+      return;
     }
+  },
+  props: {
+    source: String
   }
+};
 </script>
 
 <style>
-  /* @import "hamburgers/_sass/hamburgers/hamburgers"; */
+/* @import "hamburgers/_sass/hamburgers/hamburgers"; */
 
-  .toolbar {
-    -webkit-transition: none;
-    transition: none;
-    -webkit-box-shadow: none;
-    box-shadow: none;
+.toolbar {
+  -webkit-transition: none;
+  transition: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
 
-  }
+button:focus {
+  outline: 0;
+}
 
-  button:focus {
-    outline: 0;
-  }
+.burger {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background: #424242;
+  z-index: 20;
+}
 
-  .burger {
-    position: fixed;
-    top: 10px;
-    left: 10px;
-    background: #424242;
-    z-index: 20;
-  }
-
-  .footerText {font-family: 'Lato'; text-transform: uppercase; font-size: 12px;}
+.footerText {
+  font-family: "Lato";
+  text-transform: uppercase;
+  font-size: 12px;
+}
 </style>
