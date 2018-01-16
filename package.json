@@ -7,6 +7,8 @@
   "scripts": {
     "dev":
       "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
+    "format":
+      "prettier es5 --no-semi --tab-width=2 --print-width=80 --write src/**/*.{js,vue}",
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js"
@@ -17,6 +19,7 @@
     "hamburgers": "^0.9.1",
     "node-sass": "^4.7.2",
     "postcss-font-magician": "^2.1.0",
+    "prettier": "^1.10.2",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.1",
     "uuid": "^3.1.0",

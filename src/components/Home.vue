@@ -51,170 +51,170 @@
 
 
 <script>
-import PulseLoader from "vue-spinner/src/PulseLoader.vue";
-import { apiKeys } from "@/api-keys.js";
-import axios from "axios";
-import uuidv4 from "uuid/v4";
-import dateFormat from "dateformat";
-import Switches from "vue-switches";
+  import PulseLoader from "vue-spinner/src/PulseLoader.vue"
+  import { apiKeys } from "@/api-keys.js"
+  import axios from "axios"
+  import uuidv4 from "uuid/v4"
+  import dateFormat from "dateformat"
+  import Switches from "vue-switches"
 
-export default {
-  mounted() {
-    this.section = "Home";
-    this.fetchArticles(this.section);
-  },
+  export default {
+    mounted() {
+      this.section = "Home"
+      this.fetchArticles(this.section)
+    },
 
-  methods: {
-    makeFriendlyDate: function(d) {
-      // return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM:ss TT");
-      return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM TT");
-    },
-    setTarget: function() {
-      return this.enabled ? "_blank" : "_self";
-    },
-    changeSection: function(e) {
-      this.section = e;
-      this.loading = true;
-      this.fetchArticles(this.section);
-    },
-    fetchArticles: function(section) {
-      let vm = this;
-      section = section.toLowerCase().replace(/\s/g, "");
-      //console.log(section)
-      let url = `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${
-        apiKeys.topStories
-      }`;
-      axios
-        .get(url)
-        .then(function(response) {
-          //console.log(response);
-          vm.loading = false;
-          vm.results = response.data.results;
-          vm.lastUpdated = dateFormat(
-            response.data.last_updated,
-            "dddd, mmmm dS, yyyy, h:MM:ss TT"
-          );
-          vm.processPosts();
+    methods: {
+      makeFriendlyDate: function (d) {
+        // return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM:ss TT");
+        return dateFormat(d, "dddd, mmmm dS, yyyy, h:MM TT")
+      },
+      setTarget: function () {
+        return this.enabled ? "_blank" : "_self"
+      },
+      changeSection: function (e) {
+        this.section = e
+        this.loading = true
+        this.fetchArticles(this.section)
+      },
+      fetchArticles: function (section) {
+        let vm = this
+        section = section.toLowerCase().replace(/\s/g, "")
+        //console.log(section)
+        let url = `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${
+          apiKeys.topStories
+          }`
+        axios
+          .get(url)
+          .then(function (response) {
+            //console.log(response);
+            vm.loading = false
+            vm.results = response.data.results
+            vm.lastUpdated = dateFormat(
+              response.data.last_updated,
+              "dddd, mmmm dS, yyyy, h:MM:ss TT"
+            )
+            vm.processPosts()
+          })
+          .catch(function (error) {
+            vm.errors = true
+            console.log(error)
+            vm.$forceUpdate()
+          })
+      },
+      processPosts: function () {
+        let vm = this
+        let posts = this.results
+        // Add extra attributes: image URL and uuids for the keys.
+        posts.map(post => {
+          let imgObj = post.multimedia.find(
+            media => media.format === "superJumbo"
+          )
+          post.image_url = imgObj
+            ? imgObj.url
+            : "https://placehold.it/300x200?text=N/A"
+          post.uuid = uuidv4()
         })
-        .catch(function(error) {
-          vm.errors = true;
-          console.log(error);
-          vm.$forceUpdate();
-        });
+        this.results = posts
+      }
     },
-    processPosts: function() {
-      let vm = this;
-      let posts = this.results;
-      // Add extra attributes: image URL and uuids for the keys.
-      posts.map(post => {
-        let imgObj = post.multimedia.find(
-          media => media.format === "superJumbo"
-        );
-        post.image_url = imgObj
-          ? imgObj.url
-          : "https://placehold.it/300x200?text=N/A";
-        post.uuid = uuidv4();
-      });
-      this.results = posts;
-    }
-  },
-  components: {
-    PulseLoader,
-    Switches
-  },
+    components: {
+      PulseLoader,
+      Switches
+    },
 
-  data() {
-    return {
-      section: "Home",
-      loading: true,
-      errors: false,
-      enabled: true,
-      lastUpdated: null,
-      results: [],
-      sections: [
-        "Home",
-        "Opinion",
-        "World",
-        "National",
-        "Politics",
-        "Upshot",
-        "Business",
-        "Technology",
-        "Science",
-        "Health",
-        "Sports",
-        "Arts",
-        "Books",
-        "Movies",
-        "Theater",
-        "Sunday Review",
-        "Fashion",
-        "T Magazine",
-        "Food",
-        "Travel",
-        "Magazine",
-        "Real Eastate",
-        "Automobiles",
-        "Insider"
-      ]
-    };
+    data() {
+      return {
+        section: "Home",
+        loading: true,
+        errors: false,
+        enabled: true,
+        lastUpdated: null,
+        results: [],
+        sections: [
+          "Home",
+          "Opinion",
+          "World",
+          "National",
+          "Politics",
+          "Upshot",
+          "Business",
+          "Technology",
+          "Science",
+          "Health",
+          "Sports",
+          "Arts",
+          "Books",
+          "Movies",
+          "Theater",
+          "Sunday Review",
+          "Fashion",
+          "T Magazine",
+          "Food",
+          "Travel",
+          "Magazine",
+          "Real Eastate",
+          "Automobiles",
+          "Insider"
+        ]
+      }
+    }
   }
-};
 </script>
 
 <style scss>
-.nyt {
-  font-family: "Bevan", cursive;
-}
+  .nyt {
+    font-family: "Bevan", cursive;
+  }
 
-.full-height .flex {
-  display: flex;
-}
+  .full-height .flex {
+    display: flex;
+  }
 
-.full-height .flex > .card {
-  flex: 1 1 auto;
-}
+  .full-height .flex>.card {
+    flex: 1 1 auto;
+  }
 
-.loader {
-  position: absolute;
-  right: 5px;
-  top: 5px;
-}
+  .loader {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+  }
 
-.post:hover {
-  box-shadow: 0px 0px 150px #000000;
-  z-index: 2;
-  -webkit-transition: all 200ms ease-in;
-  -webkit-transform: scale(1.1);
-  -ms-transition: all 200ms ease-in;
-  -ms-transform: scale(1.1);
-  -moz-transition: all 200ms ease-in;
-  -moz-transform: scale(1.1);
-  transition: all 200ms ease-in;
-  transform: scale(1.1);
-  cursor: pointer;
-}
+  .post:hover {
+    box-shadow: 0px 0px 150px #000000;
+    z-index: 2;
+    -webkit-transition: all 200ms ease-in;
+    -webkit-transform: scale(1.1);
+    -ms-transition: all 200ms ease-in;
+    -ms-transform: scale(1.1);
+    -moz-transition: all 200ms ease-in;
+    -moz-transform: scale(1.1);
+    transition: all 200ms ease-in;
+    transform: scale(1.1);
+    cursor: pointer;
+  }
 
-.input-group--select .input-group__selections__comma {
-  font-size: 25px;
-  color: #bbb !important;
-}
+  .input-group--select .input-group__selections__comma {
+    font-size: 25px;
+    color: #bbb !important;
+  }
 
-.input-group--select.input-group--focused .input-group--select__autocomplete {
-  font-size: 25px;
-  color: #bbb !important;
-}
+  .input-group--select.input-group--focused .input-group--select__autocomplete {
+    font-size: 25px;
+    color: #bbb !important;
+  }
 
-.input-group__input {
-  min-height: 50px;
-}
+  .input-group__input {
+    min-height: 50px;
+  }
 
-.fade {
-  color: #fff;
-}
+  .fade {
+    color: #fff;
+  }
 
-.enabledNotification {
-  color: #35ba51;
-  font-family: "Lato", sans-serif;
-}
+  .enabledNotification {
+    color: #35ba51;
+    font-family: "Lato", sans-serif;
+  }
 </style>
