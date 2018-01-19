@@ -1,29 +1,41 @@
 # New York Times Top Stories
 
-Practice project built with [Vue](https://vuejs.org/) and [Vuetify](https://vuetifyjs.com/).
+New York Times 'Top Stories' built with [Vue](https://vuejs.org/) and [Vuetify](https://vuetifyjs.com/).
 
-Demo site: https://nyt.metaincognita.com
+## Live demo
+
+https://nyt.metaincognita.com
 
 ## Build Setup
 
-``` bash
+```bash
+- mkdir a new folder
+- cd into it
+- degit https://github.com/cschweda/nytimes-newswire-vue
+```
+
+If you don't have `degit` installed, I highly recommend it: https://github.com/Rich-Harris/degit
+
+Then:
+
+```bash
 # install dependencies
-npm install
+yarn install
 
 # serve with hot reload at localhost:8080
-npm run dev
+yarn dev
 
 # build for production with minification
-npm run build
+yarn build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# format with prettier
+yarn format
 ```
 
 ## API keys
 
 Before building the app, you'll need an API key.
 
-- Obtain the **Top Stories**  API keys here: http://developer.nytimes.com/
-- Rename ```api-keys-sample.js``` to ```api-keys.js```
-- Paste in your key
+* Obtain the **Top Stories** API keys here: http://developer.nytimes.com/
+* Rename `api-keys-sample.js` to `api-keys.js`
+* Paste in your key
