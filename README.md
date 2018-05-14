@@ -37,5 +37,14 @@ yarn format
 Before building the app, you'll need an API key.
 
 * Obtain the **Top Stories** API keys here: http://developer.nytimes.com/
-* Rename `api-keys-sample.js` to `api-keys.js`
+
+### For Development
+
+* Rename `./config/env-sample.js` to `env.js`
 * Paste in your key
+
+### For Production (on Netlify)
+
+* Create new environment variable named `API_KEY` in build settings.
+* Paste in your key as value
+* Build site with `yarn build` or `npm build`
