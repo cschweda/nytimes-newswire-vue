@@ -35,6 +35,7 @@
                     <p>{{result.abstract}}</p>
                   </div>
                   <span class="grey--text">{{makeFriendlyDate(result.published_date)}}</span>
+
                 </div>
               </v-card-title>
             </v-card>
@@ -48,7 +49,7 @@
 
 <script>
   import PulseLoader from "vue-spinner/src/PulseLoader.vue";
-  import { apiKeys } from "@/api-keys.js";
+  //import { apiKeys } from "@/api-keys.js";
   import axios from "axios";
   import uuidv4 from "uuid/v4";
   import dateFormat from "dateformat";
@@ -78,7 +79,7 @@
         section = section.toLowerCase().replace(/\s/g, "");
         //console.log(section)
         let url = `https://api.nytimes.com/svc/topstories/v2/${section}.json?api-key=${
-          apiKeys.topStories
+          this.myApiKey
           }`;
         axios
           .get(url)
@@ -112,6 +113,11 @@
           post.uuid = uuidv4();
         });
         this.results = posts;
+      }
+    },
+    computed: {
+      myApiKey: function () {
+        return process.env.API_KEY
       }
     },
     components: {
